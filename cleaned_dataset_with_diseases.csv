@@ -1,0 +1,1001 @@
+Member_ID,Age,Gender,,Occupation,Pre_existing_Conditions,Smoking_Status,BMI,Family_History,Claim_History,Policy_Type,Risk_Score,Income_LPA,Disease,,Income
+ID_0001,56,female,,Doctor,none,non-smoker,32.17,['stroke'],2+ Claims,individual,40,11.2,diabetes,,45990
+ID_0002,69,male,,Unemployed,none,non-smoker,34.97,"['diabetes', 'heart disease']",No Claims,family,60,0,diabetes,,20243
+ID_0003,46,male,,Doctor,none,non-smoker,20.2,"['cancer', 'heart disease', 'stroke']",No Claims,individual,20,9.5,diabetes,,38433
+ID_0004,32,male,,Teacher,hypertension,non-smoker,19.51,['heart disease'],1 Claim,family,55,5.5,hypertension,,39289
+ID_0005,60,male,,Entrepreneur,hypertension,non-smoker,18.92,['stroke'],No Claims,family,45,4,kidney failure,,32155
+ID_0006,25,male,,Retail Worker,diabetes,occasional smoker,22.56,['heart disease'],1 Claim,family,30,2.3,kidney failure,,48425
+ID_0007,38,female,,Engineer,multiple,non-smoker,27.41,['none'],1 Claim,corporate,90,6.8,diabetes,,21566
+ID_0008,56,male,,Manager,none,occasional smoker,38.62,['none'],No Claims,family,65,10.8,tuberculosis (tb),,29495
+ID_0009,36,male,,Doctor,diabetes,non-smoker,28.33,['none'],2+ Claims,individual,25,17.9,tuberculosis (tb),,41695
+ID_0010,40,male,,Engineer,multiple,non-smoker,24.74,"['diabetes', 'heart disease']",1 Claim,individual,60,7.6,diabetes,,40396
+ID_0011,28,female,,Student,none,non-smoker,30.58,['diabetes'],1 Claim,individual,40,1.7,diabetes,,36843
+ID_0012,28,female,,IT Professional,heart disease,non-smoker,20.91,"['diabetes', 'stroke']",No Claims,family,30,6.6,genetic disorder,,39000
+ID_0013,41,female,,Engineer,none,non-smoker,31.6,['none'],No Claims,individual,30,7,heart disease,,42692
+ID_0014,53,female,,Entrepreneur,none,non-smoker,30.72,['none'],1 Claim,individual,20,7.5,kidney failure,,32911
+ID_0015,57,male,,Doctor,none,non-smoker,35.53,['none'],No Claims,family,30,12.5,diabetes,,22024
+ID_0016,41,male,,Engineer,hypertension,non-smoker,39.71,"['cancer', 'heart disease']",No Claims,family,65,5.8,diabetes,,23887
+ID_0017,20,male,,Unemployed,diabetes,occasional smoker,23.89,"['cancer', 'kidney disease']",1 Claim,corporate,30,0,kidney failure,,22723
+ID_0018,39,male,,Engineer,hypertension,regular smoker,29.46,['none'],No Claims,family,75,5,hypertension,,42437
+ID_0019,19,female,,Unemployed,none,non-smoker,38.04,['none'],No Claims,family,40,0,kidney failure,,36911
+ID_0020,41,female,,Teacher,none,non-smoker,35.38,"['diabetes', 'stroke']",No Claims,family,50,4.7,genetic disorder,,30033
+ID_0021,61,male,,Doctor,none,non-smoker,28.98,['cancer'],No Claims,corporate,30,10.7,hypertension,,30530
+ID_0022,47,male,,Entrepreneur,none,non-smoker,38.83,"['diabetes', 'heart disease', 'stroke']",1 Claim,family,30,8.7,diabetes,,26472
+ID_0023,55,female,,Doctor,heart disease,non-smoker,19.73,['none'],No Claims,family,50,9.3,diabetes,,42846
+ID_0024,19,female,,Unemployed,none,regular smoker,38.52,"['heart disease', 'stroke']",No Claims,corporate,50,0,hypertension,,45965
+ID_0025,38,male,,Doctor,hypertension,non-smoker,19.59,['stroke'],1 Claim,corporate,25,11,heart disease,,21098
+ID_0026,50,female,,Engineer,hypertension,non-smoker,30.27,['stroke'],2+ Claims,individual,55,6.1,diabetes,,24749
+ID_0027,29,female,,IT Professional,none,non-smoker,37.64,['none'],1 Claim,individual,30,8,heart disease,,42388
+ID_0028,39,female,,Entrepreneur,diabetes,occasional smoker,24.15,['none'],No Claims,individual,30,4.9,kidney failure,,37361
+ID_0029,61,male,,Doctor,none,non-smoker,28.65,['stroke'],No Claims,individual,20,12.3,tuberculosis (tb),,37416
+ID_0030,42,female,,Accountant,none,non-smoker,25.47,"['cancer', 'heart disease']",1 Claim,individual,40,5.9,genetic disorder,,42018
+ID_0031,66,female,,Unemployed,none,regular smoker,38.97,['diabetes'],No Claims,individual,70,0,heart disease,,35953
+ID_0032,44,male,,Teacher,diabetes,non-smoker,36.21,"['heart disease', 'stroke']",1 Claim,individual,35,5,genetic disorder,,40511
+ID_0033,59,male,,Teacher,none,occasional smoker,33.74,['heart disease'],No Claims,family,45,4.1,tuberculosis (tb),,40055
+ID_0034,45,female,,Engineer,diabetes,non-smoker,31.13,['none'],No Claims,family,45,6,kidney failure,,25096
+ID_0035,33,female,,Retail Worker,diabetes,occasional smoker,36.14,['none'],1 Claim,individual,70,2.4,genetic disorder,,26061
+ID_0036,32,female,,Teacher,none,non-smoker,26.93,['heart disease'],1 Claim,family,60,4.7,hypertension,,49400
+ID_0037,64,male,,Doctor,diabetes,non-smoker,28.12,['diabetes'],1 Claim,family,35,14.9,heart disease,,33098
+ID_0038,68,female,,Unemployed,hypertension,occasional smoker,34.2,['diabetes'],No Claims,family,80,0,genetic disorder,,26789
+ID_0039,61,male,,Doctor,none,non-smoker,26.19,['none'],No Claims,corporate,20,6.9,heart disease,,33148
+ID_0040,69,female,,Unemployed,none,non-smoker,19.87,"['diabetes', 'heart disease']",No Claims,individual,10,0,hypertension,,49802
+ID_0041,20,male,,Unemployed,hypertension,non-smoker,20.1,['heart disease'],No Claims,individual,65,0,heart disease,,43441
+ID_0042,54,male,,Entrepreneur,none,non-smoker,20.98,['none'],No Claims,individual,0,4.4,kidney failure,,44477
+ID_0043,68,male,,Unemployed,diabetes,non-smoker,37.2,"['cancer', 'diabetes']",No Claims,individual,55,0,kidney failure,,24783
+ID_0044,24,male,,Retail Worker,none,non-smoker,28.65,['cancer'],No Claims,family,20,1.5,hypertension,,26873
+ID_0045,38,female,,Retail Worker,none,non-smoker,33.83,['kidney disease'],2+ Claims,individual,30,2.5,diabetes,,34093
+ID_0046,26,male,,Accountant,none,non-smoker,26.95,['cancer'],1 Claim,individual,30,6.7,kidney failure,,30281
+ID_0047,56,female,,Entrepreneur,none,non-smoker,24.06,['diabetes'],2+ Claims,individual,20,3.1,heart disease,,42715
+ID_0048,35,female,,Doctor,diabetes,non-smoker,25.96,['none'],No Claims,individual,35,8.8,hypertension,,26230
+ID_0049,21,female,,Unemployed,none,occasional smoker,35.57,['none'],2+ Claims,family,65,0,diabetes,,42525
+ID_0050,42,female,,Entrepreneur,hypertension,regular smoker,31.94,['not available'],No Claims,family,85,3.3,heart disease,,41686
+ID_0051,31,male,,IT Professional,heart disease,occasional smoker,38.66,"['diabetes', 'heart disease']",No Claims,individual,85,6.2,heart disease,,32662
+ID_0052,67,female,,Unemployed,diabetes,non-smoker,33.11,['heart disease'],1 Claim,individual,55,0,hypertension,,31009
+ID_0053,26,female,,Accountant,hypertension,non-smoker,30.76,['diabetes'],No Claims,individual,45,3.5,diabetes,,29974
+ID_0054,43,female,,Accountant,none,non-smoker,31.62,['stroke'],No Claims,individual,40,6,hypertension,,30850
+ID_0055,19,male,,Unemployed,none,non-smoker,38.76,['none'],No Claims,family,40,0,diabetes,,23311
+ID_0056,37,female,,Retail Worker,hypertension,non-smoker,35.45,['not available'],No Claims,individual,55,3.2,hypertension,,35950
+ID_0057,45,male,,Teacher,none,non-smoker,19.02,"['heart disease', 'kidney disease', 'stroke']",1 Claim,family,20,4.9,diabetes,,35606
+ID_0058,64,male,,Doctor,diabetes,non-smoker,29.98,['stroke'],1 Claim,family,55,12.1,hypertension,,41848
+ID_0059,24,male,,Student,none,regular smoker,33.3,['not available'],1 Claim,individual,60,1.6,diabetes,,32253
+ID_0060,61,male,,Doctor,diabetes,non-smoker,34.6,"['cancer', 'heart disease', 'kidney disease', 'stroke']",No Claims,individual,75,10.9,heart disease,,32553
+ID_0061,25,male,,Teacher,heart disease,non-smoker,23.08,['kidney disease'],1 Claim,corporate,30,5,diabetes,,26138
+ID_0062,64,male,,Doctor,heart disease,non-smoker,37.14,['none'],No Claims,family,50,17.4,diabetes,,36425
+ID_0063,52,male,,Doctor,hypertension,non-smoker,39.05,"['diabetes', 'heart disease']",No Claims,individual,35,10.4,hypertension,,24243
+ID_0064,31,female,,IT Professional,hypertension,occasional smoker,23.59,"['diabetes', 'heart disease', 'stroke']",2+ Claims,family,40,11.7,diabetes,,21337
+ID_0065,34,female,,IT Professional,diabetes,non-smoker,37.48,['stroke'],No Claims,family,55,11.7,diabetes,,44182
+ID_0066,53,male,,Doctor,diabetes,non-smoker,20.59,"['diabetes', 'heart disease', 'stroke']",1 Claim,individual,35,8.9,diabetes,,28102
+ID_0067,67,male,,Unemployed,none,non-smoker,19.7,['diabetes'],No Claims,family,40,0,diabetes,,43604
+ID_0068,57,female,,Manager,none,non-smoker,21.28,['diabetes'],1 Claim,individual,40,14.7,genetic disorder,,48235
+ID_0069,21,female,,Unemployed,none,non-smoker,19.74,"['heart disease', 'kidney disease']",1 Claim,family,40,0,tuberculosis (tb),,37218
+ID_0070,19,male,,Unemployed,multiple,occasional smoker,36.67,"['heart disease', 'kidney disease']",No Claims,corporate,100,0,heart disease,,25292
+ID_0071,23,female,,IT Professional,none,occasional smoker,19.77,['kidney disease'],No Claims,family,35,6.2,genetic disorder,,42158
+ID_0072,59,female,,Entrepreneur,diabetes,occasional smoker,24.34,"['diabetes', 'stroke']",1 Claim,individual,60,4.2,kidney failure,,49211
+ID_0073,21,female,,Unemployed,diabetes,non-smoker,20.73,['none'],No Claims,individual,35,0,diabetes,,34260
+ID_0074,46,female,,Entrepreneur,diabetes,occasional smoker,24.85,"['cancer', 'stroke']",No Claims,family,40,4.7,tuberculosis (tb),,32867
+ID_0075,35,male,,Accountant,hypertension,non-smoker,20.45,['none'],1 Claim,family,15,6.5,diabetes,,48226
+ID_0076,43,female,,Retail Worker,none,non-smoker,32.86,['diabetes'],No Claims,family,50,1.6,heart disease,,40723
+ID_0077,61,female,,Doctor,diabetes,non-smoker,21.37,"['cancer', 'stroke']",1 Claim,corporate,45,9.1,hypertension,,25963
+ID_0078,51,female,,Entrepreneur,hypertension,non-smoker,36.81,['none'],No Claims,family,45,7.2,tuberculosis (tb),,33290
+ID_0079,27,female,,IT Professional,none,non-smoker,36.07,['cancer'],No Claims,individual,30,6.4,diabetes,,28671
+ID_0080,53,male,,Teacher,none,occasional smoker,18.79,['heart disease'],1 Claim,individual,55,4.6,kidney failure,,32136
+ID_0081,31,male,,Teacher,diabetes,non-smoker,37.76,['heart disease'],No Claims,individual,45,3.3,diabetes,,29494
+ID_0082,48,male,,Doctor,hypertension,non-smoker,19.12,['none'],No Claims,family,15,15.1,diabetes,,46610
+ID_0083,65,female,,Doctor,none,non-smoker,23.65,['heart disease'],No Claims,family,30,14.6,genetic disorder,,46452
+ID_0084,32,female,,Doctor,hypertension,occasional smoker,19.2,['heart disease'],No Claims,family,50,9.3,heart disease,,30892
+ID_0085,25,female,,Retail Worker,hypertension,regular smoker,25.72,['not available'],No Claims,individual,65,2.3,kidney failure,,40820
+ID_0086,31,female,,Manager,none,occasional smoker,29.55,"['heart disease', 'stroke']",No Claims,individual,45,14.7,diabetes,,29101
+ID_0087,40,male,,Engineer,multiple,non-smoker,35.63,['diabetes'],No Claims,individual,100,4.2,hypertension,,32802
+ID_0088,57,male,,Manager,hypertension,non-smoker,25.77,['none'],No Claims,family,55,12.6,kidney failure,,44386
+ID_0089,38,female,,Teacher,hypertension,non-smoker,33.67,"['cancer', 'heart disease']",1 Claim,individual,35,4,tuberculosis (tb),,35897
+ID_0090,33,male,,Entrepreneur,hypertension,non-smoker,22.53,['none'],1 Claim,individual,15,8.6,hypertension,,28124
+ID_0091,62,female,,Doctor,none,non-smoker,34.64,['heart disease'],No Claims,individual,30,16.4,diabetes,,28393
+ID_0092,35,female,,Retail Worker,none,non-smoker,23.57,['diabetes'],1 Claim,family,20,3.4,tuberculosis (tb),,46626
+ID_0093,64,female,,Doctor,none,non-smoker,21.59,['none'],1 Claim,individual,20,13.1,diabetes,,22854
+ID_0094,41,male,,Teacher,none,regular smoker,22.49,"['cancer', 'diabetes']",No Claims,family,40,6,tuberculosis (tb),,45423
+ID_0095,43,female,,Engineer,none,non-smoker,22.41,"['cancer', 'heart disease']",1 Claim,family,30,4.7,hypertension,,22294
+ID_0096,42,male,,Engineer,heart disease,non-smoker,29.53,['none'],No Claims,family,50,5.3,diabetes,,35518
+ID_0097,62,male,,Doctor,hypertension,non-smoker,36.66,['none'],1 Claim,family,65,11.8,tuberculosis (tb),,23883
+ID_0098,58,male,,Teacher,diabetes,regular smoker,20.21,"['diabetes', 'heart disease', 'stroke']",No Claims,individual,45,5.5,diabetes,,45192
+ID_0099,46,female,,Accountant,heart disease,occasional smoker,33.7,['none'],No Claims,individual,75,5.2,genetic disorder,,40006
+ID_0100,32,female,,Accountant,hypertension,occasional smoker,32.57,['none'],1 Claim,corporate,70,5.1,genetic disorder,,44743
+ID_0101,62,male,,Doctor,none,regular smoker,37.26,['none'],No Claims,family,70,9.7,heart disease,,45866
+ID_0102,18,female,,Unemployed,none,non-smoker,23.75,['none'],No Claims,corporate,10,0,hypertension,,41626
+ID_0103,42,female,,Teacher,diabetes,non-smoker,28.18,['heart disease'],No Claims,family,45,3.2,genetic disorder,,47373
+ID_0104,24,female,,IT Professional,hypertension,non-smoker,38.41,['diabetes'],No Claims,individual,35,7.9,hypertension,,36435
+ID_0105,26,male,,Teacher,none,non-smoker,32.69,"['cancer', 'diabetes']",1 Claim,individual,40,4.8,hypertension,,47797
+ID_0106,41,female,,Accountant,diabetes,non-smoker,26.86,"['cancer', 'diabetes', 'heart disease']",1 Claim,family,55,4.5,genetic disorder,,24525
+ID_0107,18,female,,Unemployed,none,non-smoker,21.33,['none'],No Claims,individual,10,0,kidney failure,,26375
+ID_0108,61,female,,Doctor,hypertension,regular smoker,24.14,"['cancer', 'heart disease']",No Claims,individual,65,15,tuberculosis (tb),,43741
+ID_0109,25,male,,Engineer,hypertension,regular smoker,31,['none'],1 Claim,family,85,5.3,tuberculosis (tb),,43605
+ID_0110,41,female,,Teacher,hypertension,occasional smoker,33.94,['kidney disease'],No Claims,individual,60,4.8,hypertension,,41751
+ID_0111,28,male,,Student,multiple,occasional smoker,21.18,['diabetes'],1 Claim,individual,75,1.5,tuberculosis (tb),,28357
+ID_0112,68,male,,Unemployed,hypertension,non-smoker,31.39,['not available'],No Claims,family,55,0,tuberculosis (tb),,32044
+ID_0113,34,male,,Engineer,heart disease,non-smoker,30.33,['heart disease'],No Claims,family,70,5.7,genetic disorder,,45438
+ID_0114,25,male,,Retail Worker,heart disease,non-smoker,29.55,['heart disease'],No Claims,individual,70,2,diabetes,,45442
+ID_0115,52,male,,Accountant,hypertension,non-smoker,33.34,['none'],No Claims,family,65,5.5,heart disease,,33171
+ID_0116,52,male,,Teacher,diabetes,occasional smoker,36.51,['diabetes'],No Claims,family,70,3.3,tuberculosis (tb),,23618
+ID_0117,50,male,,Entrepreneur,none,non-smoker,25.44,['none'],No Claims,individual,30,3.3,heart disease,,45399
+ID_0118,22,male,,Unemployed,none,regular smoker,37.61,['stroke'],No Claims,individual,70,0,diabetes,,30580
+ID_0119,59,female,,Entrepreneur,diabetes,non-smoker,21.95,['diabetes'],No Claims,individual,25,7.2,diabetes,,48653
+ID_0120,56,male,,Doctor,none,non-smoker,22.22,['none'],No Claims,family,10,6.8,heart disease,,37699
+ID_0121,58,female,,Teacher,none,non-smoker,24.24,['diabetes'],No Claims,individual,0,4.9,heart disease,,20638
+ID_0122,45,female,,Entrepreneur,multiple,non-smoker,21.07,['not available'],No Claims,corporate,90,6.2,tuberculosis (tb),,39437
+ID_0123,24,female,,Student,heart disease,non-smoker,23.45,['none'],No Claims,family,30,1.4,heart disease,,41122
+ID_0124,26,male,,IT Professional,hypertension,non-smoker,20.79,"['heart disease', 'kidney disease']",No Claims,family,55,8.1,heart disease,,29402
+ID_0125,25,male,,Retail Worker,none,occasional smoker,36.17,['none'],1 Claim,corporate,45,2.9,diabetes,,33890
+ID_0126,29,female,,Engineer,none,non-smoker,21.49,"['diabetes', 'kidney disease']",1 Claim,family,10,7.6,genetic disorder,,38709
+ID_0127,51,female,,Accountant,none,non-smoker,34.57,['cancer'],No Claims,individual,30,3.2,heart disease,,33712
+ID_0128,50,female,,Accountant,none,non-smoker,19.53,['diabetes'],No Claims,individual,10,5.2,genetic disorder,,24850
+ID_0129,65,male,,Doctor,none,non-smoker,38.89,"['cancer', 'heart disease', 'stroke']",No Claims,family,50,18,diabetes,,39402
+ID_0130,40,female,,Teacher,none,regular smoker,33.79,"['diabetes', 'heart disease']",1 Claim,individual,60,5.4,diabetes,,21135
+ID_0131,41,male,,Manager,heart disease,non-smoker,18.65,['cancer'],No Claims,individual,40,7.5,heart disease,,23908
+ID_0132,54,female,,Teacher,hypertension,regular smoker,34.92,['none'],No Claims,family,65,4.4,diabetes,,46034
+ID_0133,52,female,,Manager,none,non-smoker,29.55,['cancer'],1 Claim,corporate,10,14.9,tuberculosis (tb),,27652
+ID_0134,61,female,,Doctor,none,regular smoker,35.26,['kidney disease'],No Claims,individual,70,14.4,diabetes,,42052
+ID_0135,57,male,,Entrepreneur,diabetes,non-smoker,29.73,"['heart disease', 'stroke']",No Claims,family,25,5.7,genetic disorder,,39197
+ID_0136,39,female,,Entrepreneur,none,non-smoker,32.28,['none'],No Claims,individual,50,8.1,tuberculosis (tb),,40172
+ID_0137,44,male,,Manager,heart disease,non-smoker,35.41,['not available'],1 Claim,family,50,12.7,diabetes,,24053
+ID_0138,52,male,,Doctor,none,non-smoker,27.21,"['diabetes', 'heart disease']",No Claims,individual,20,15.3,hypertension,,45102
+ID_0139,18,male,,Unemployed,none,non-smoker,18.56,['diabetes'],1 Claim,family,20,0,kidney failure,,46426
+ID_0140,52,male,,Manager,none,non-smoker,36.77,['none'],1 Claim,individual,30,8,tuberculosis (tb),,27292
+ID_0141,54,female,,Manager,none,non-smoker,26.69,['none'],No Claims,family,60,11.1,tuberculosis (tb),,37855
+ID_0142,64,female,,Doctor,diabetes,non-smoker,29.16,"['diabetes', 'stroke']",No Claims,individual,35,16,tuberculosis (tb),,36862
+ID_0143,31,female,,Manager,hypertension,non-smoker,18.67,['none'],No Claims,individual,25,11.7,genetic disorder,,44996
+ID_0144,20,male,,Unemployed,diabetes,occasional smoker,29.08,['not available'],1 Claim,individual,50,0,hypertension,,49721
+ID_0145,18,male,,Unemployed,none,non-smoker,39.71,['none'],1 Claim,individual,30,0,diabetes,,21283
+ID_0146,22,male,,Unemployed,diabetes,non-smoker,24.48,['none'],No Claims,individual,25,0,kidney failure,,41009
+ID_0147,43,male,,Entrepreneur,diabetes,non-smoker,27,['cancer'],1 Claim,individual,65,8,diabetes,,36326
+ID_0148,31,female,,IT Professional,heart disease,occasional smoker,33.27,['diabetes'],No Claims,family,100,11.7,diabetes,,33340
+ID_0149,56,female,,Manager,none,non-smoker,36.02,['heart disease'],No Claims,family,70,7.1,heart disease,,44683
+ID_0150,44,female,,Accountant,none,non-smoker,27.47,['kidney disease'],2+ Claims,individual,30,7.7,heart disease,,48051
+ID_0151,26,female,,IT Professional,diabetes,regular smoker,25.16,"['diabetes', 'kidney disease']",1 Claim,family,75,6.4,diabetes,,33524
+ID_0152,32,male,,Doctor,diabetes,occasional smoker,38.66,['cancer'],No Claims,individual,50,11.8,hypertension,,32531
+ID_0153,32,male,,Accountant,none,non-smoker,33.06,['none'],1 Claim,family,30,6.6,diabetes,,49294
+ID_0154,43,female,,Manager,none,non-smoker,21.06,['none'],2+ Claims,individual,20,13.7,diabetes,,28405
+ID_0155,59,male,,Entrepreneur,none,occasional smoker,19.98,['none'],1 Claim,family,15,5,genetic disorder,,30372
+ID_0156,30,female,,Accountant,heart disease,non-smoker,28.9,['stroke'],1 Claim,individual,90,6.5,diabetes,,29831
+ID_0157,68,female,,Unemployed,none,non-smoker,23.23,['stroke'],1 Claim,corporate,20,0,genetic disorder,,25649
+ID_0158,49,female,,Teacher,heart disease,non-smoker,23.96,['none'],No Claims,individual,40,4.7,genetic disorder,,31865
+ID_0159,56,male,,Teacher,diabetes,occasional smoker,37.37,"['cancer', 'diabetes']",1 Claim,individual,60,5.9,hypertension,,25218
+ID_0160,66,male,,Unemployed,heart disease,non-smoker,20.43,['heart disease'],No Claims,individual,50,0,tuberculosis (tb),,31714
+ID_0161,69,female,,Unemployed,hypertension,occasional smoker,33.88,['diabetes'],1 Claim,family,50,0,genetic disorder,,38207
+ID_0162,49,male,,Teacher,none,non-smoker,24.33,['diabetes'],No Claims,family,20,3.4,hypertension,,40353
+ID_0163,21,male,,Unemployed,heart disease,non-smoker,34.85,['none'],1 Claim,family,60,0,genetic disorder,,47146
+ID_0164,47,male,,Entrepreneur,none,non-smoker,34.03,['heart disease'],No Claims,corporate,30,8.3,genetic disorder,,36889
+ID_0165,54,male,,Entrepreneur,heart disease,non-smoker,18.66,['heart disease'],No Claims,corporate,50,3.1,heart disease,,21456
+ID_0166,40,male,,Teacher,diabetes,regular smoker,29.45,['none'],No Claims,family,95,5.5,hypertension,,36552
+ID_0167,56,male,,Entrepreneur,none,occasional smoker,21.5,['none'],2+ Claims,individual,25,3.4,heart disease,,34915
+ID_0168,62,male,,Doctor,diabetes,non-smoker,37.12,['cancer'],2+ Claims,family,55,13.6,diabetes,,46049
+ID_0169,32,male,,Accountant,multiple,non-smoker,37.24,['diabetes'],No Claims,individual,80,6.4,diabetes,,36795
+ID_0170,60,female,,Teacher,none,non-smoker,27.49,['not available'],2+ Claims,family,50,4,hypertension,,37444
+ID_0171,46,male,,Accountant,diabetes,non-smoker,28.05,['not available'],1 Claim,family,45,7.6,hypertension,,32224
+ID_0172,53,female,,Accountant,hypertension,non-smoker,25.02,['diabetes'],1 Claim,family,35,5.6,genetic disorder,,48044
+ID_0173,30,female,,Teacher,hypertension,non-smoker,33.91,['heart disease'],No Claims,family,55,4.8,diabetes,,35960
+ID_0174,49,male,,Doctor,none,non-smoker,26.21,"['diabetes', 'heart disease']",2+ Claims,family,30,10,hypertension,,47669
+ID_0175,24,female,,Student,none,occasional smoker,24.26,['none'],No Claims,corporate,35,1,kidney failure,,49703
+ID_0176,68,male,,Unemployed,none,regular smoker,27.79,['heart disease'],1 Claim,individual,60,0,kidney failure,,21827
+ID_0177,39,male,,Retail Worker,diabetes,non-smoker,20.47,['diabetes'],1 Claim,individual,15,1.9,hypertension,,42840
+ID_0178,45,female,,Entrepreneur,none,occasional smoker,34.55,['none'],1 Claim,family,55,6.9,heart disease,,46970
+ID_0179,19,female,,Unemployed,heart disease,non-smoker,18.77,['none'],1 Claim,corporate,60,0,hypertension,,41987
+ID_0180,59,male,,Manager,none,non-smoker,32.36,['kidney disease'],No Claims,individual,50,12,genetic disorder,,20129
+ID_0181,62,male,,Doctor,diabetes,non-smoker,22.43,['none'],No Claims,individual,15,11.6,genetic disorder,,24183
+ID_0182,23,female,,Student,none,non-smoker,23.5,['none'],No Claims,individual,20,1.1,tuberculosis (tb),,25037
+ID_0183,45,female,,Accountant,none,non-smoker,32.17,"['cancer', 'diabetes']",No Claims,individual,40,6.1,hypertension,,39242
+ID_0184,45,female,,Teacher,none,non-smoker,39.85,"['cancer', 'heart disease', 'stroke']",No Claims,corporate,30,3.9,kidney failure,,47655
+ID_0185,61,male,,Doctor,none,occasional smoker,35.22,['cancer'],1 Claim,family,55,17.2,tuberculosis (tb),,45742
+ID_0186,61,male,,Doctor,diabetes,occasional smoker,23.36,['heart disease'],1 Claim,family,40,16.5,heart disease,,36720
+ID_0187,37,male,,Engineer,heart disease,non-smoker,22.28,['none'],No Claims,family,50,5.8,diabetes,,32671
+ID_0188,47,female,,Doctor,diabetes,regular smoker,37.12,['stroke'],No Claims,family,85,6.9,diabetes,,35221
+ID_0189,28,female,,Doctor,multiple,non-smoker,28.05,['none'],No Claims,individual,70,7.6,diabetes,,30763
+ID_0190,45,female,,Doctor,heart disease,non-smoker,21.45,"['heart disease', 'kidney disease']",No Claims,individual,50,13,tuberculosis (tb),,42233
+ID_0191,42,male,,Engineer,diabetes,non-smoker,37.04,['none'],No Claims,individual,55,5.9,hypertension,,43563
+ID_0192,56,female,,Teacher,hypertension,non-smoker,36.05,['none'],1 Claim,individual,35,3.1,diabetes,,20735
+ID_0193,50,male,,Teacher,diabetes,non-smoker,39.65,['heart disease'],No Claims,individual,85,4.9,kidney failure,,27381
+ID_0194,18,male,,Unemployed,none,non-smoker,38.06,['none'],1 Claim,individual,70,0,diabetes,,32883
+ID_0195,44,male,,Accountant,hypertension,non-smoker,36.81,['none'],No Claims,individual,45,4.5,heart disease,,46262
+ID_0196,69,male,,Unemployed,none,occasional smoker,19.63,"['diabetes', 'heart disease']",1 Claim,individual,15,0,hypertension,,32368
+ID_0197,30,female,,IT Professional,diabetes,non-smoker,20.74,['stroke'],1 Claim,family,35,9.1,tuberculosis (tb),,46585
+ID_0198,58,male,,Teacher,hypertension,non-smoker,30.73,['heart disease'],2+ Claims,individual,55,3.6,diabetes,,23152
+ID_0199,20,male,,Unemployed,none,non-smoker,29.93,['none'],1 Claim,corporate,10,0,hypertension,,47011
+ID_0200,56,female,,Doctor,none,non-smoker,28.35,"['cancer', 'heart disease', 'stroke']",2+ Claims,individual,20,15.8,diabetes,,47936
+ID_0201,23,female,,IT Professional,heart disease,non-smoker,27.03,['none'],1 Claim,family,50,7.9,genetic disorder,,44659
+ID_0202,25,female,,Accountant,diabetes,occasional smoker,27.77,['none'],1 Claim,family,60,7.2,diabetes,,22219
+ID_0203,44,female,,Manager,none,non-smoker,30.74,['not available'],No Claims,corporate,30,8.1,diabetes,,33639
+ID_0204,26,male,,Student,diabetes,non-smoker,18.54,"['cancer', 'heart disease']",No Claims,family,25,2.4,hypertension,,38690
+ID_0205,54,male,,Doctor,diabetes,non-smoker,24.11,['kidney disease'],No Claims,individual,45,10.1,genetic disorder,,38646
+ID_0206,50,female,,Teacher,diabetes,non-smoker,29.64,['heart disease'],1 Claim,individual,35,5.1,diabetes,,26558
+ID_0207,68,male,,Unemployed,multiple,non-smoker,34.03,['none'],No Claims,individual,90,0,diabetes,,27705
+ID_0208,59,female,,Doctor,diabetes,non-smoker,22.24,['diabetes'],1 Claim,individual,35,17.9,hypertension,,35732
+ID_0209,61,female,,Doctor,none,regular smoker,30.26,"['diabetes', 'heart disease']",2+ Claims,individual,70,10.1,heart disease,,49807
+ID_0210,41,male,,Doctor,hypertension,non-smoker,33.86,['none'],No Claims,family,75,7.2,heart disease,,20195
+ID_0211,32,female,,IT Professional,heart disease,non-smoker,28.06,"['cancer', 'stroke']",No Claims,family,60,10.2,kidney failure,,43907
+ID_0212,49,male,,Teacher,none,non-smoker,19.08,['none'],2+ Claims,family,40,4,hypertension,,23392
+ID_0213,49,male,,Manager,none,non-smoker,28.16,['none'],No Claims,corporate,40,13.2,diabetes,,23572
+ID_0214,41,male,,Retail Worker,none,non-smoker,24.87,['diabetes'],1 Claim,family,10,2.6,hypertension,,47225
+ID_0215,58,male,,Doctor,diabetes,regular smoker,38.49,['heart disease'],No Claims,family,100,10.7,hypertension,,33020
+ID_0216,69,male,,Unemployed,diabetes,non-smoker,21.18,['heart disease'],1 Claim,family,15,0,diabetes,,49248
+ID_0217,66,male,,Unemployed,diabetes,non-smoker,32.53,['heart disease'],No Claims,individual,45,0,tuberculosis (tb),,39088
+ID_0218,66,female,,Unemployed,heart disease,non-smoker,19.63,['not available'],1 Claim,individual,40,0,diabetes,,46024
+ID_0219,69,male,,Unemployed,hypertension,non-smoker,28.09,"['cancer', 'stroke']",No Claims,corporate,25,0,hypertension,,25784
+ID_0220,29,female,,Doctor,none,non-smoker,30.41,['none'],No Claims,corporate,40,12.1,hypertension,,33444
+ID_0221,56,male,,Doctor,none,non-smoker,24.91,"['kidney disease', 'stroke']",No Claims,family,0,11.1,genetic disorder,,37764
+ID_0222,19,male,,Unemployed,none,non-smoker,28.28,['none'],No Claims,individual,20,0,heart disease,,34238
+ID_0223,20,female,,Unemployed,none,non-smoker,22.02,"['heart disease', 'stroke']",2+ Claims,family,0,0,hypertension,,41039
+ID_0224,66,male,,Unemployed,diabetes,occasional smoker,25.04,"['heart disease', 'stroke']",1 Claim,individual,80,0,hypertension,,42211
+ID_0225,54,female,,Manager,heart disease,non-smoker,31.85,"['cancer', 'heart disease', 'stroke']",No Claims,individual,60,8.4,heart disease,,45350
+ID_0226,66,female,,Unemployed,none,non-smoker,24.99,['none'],No Claims,individual,20,0,kidney failure,,26838
+ID_0227,34,female,,Retail Worker,diabetes,non-smoker,37.84,['diabetes'],No Claims,individual,55,1.6,kidney failure,,29248
+ID_0228,66,male,,Unemployed,hypertension,non-smoker,32.01,['not available'],1 Claim,individual,55,0,hypertension,,38048
+ID_0229,19,male,,Unemployed,none,non-smoker,27.93,['heart disease'],1 Claim,individual,20,0,diabetes,,38246
+ID_0230,19,female,,Unemployed,none,non-smoker,19.33,['none'],No Claims,individual,30,0,diabetes,,28775
+ID_0231,45,female,,Manager,none,non-smoker,29.24,['none'],1 Claim,individual,30,14.7,genetic disorder,,28405
+ID_0232,40,female,,Retail Worker,none,non-smoker,34.94,['cancer'],1 Claim,family,40,2.1,diabetes,,23900
+ID_0233,54,female,,Doctor,heart disease,non-smoker,24.21,['none'],2+ Claims,family,70,17.7,hypertension,,49812
+ID_0234,49,male,,Manager,none,non-smoker,35.85,['diabetes'],2+ Claims,individual,50,10.7,diabetes,,36587
+ID_0235,50,male,,Teacher,none,occasional smoker,23.91,['none'],1 Claim,individual,35,4.1,genetic disorder,,43530
+ID_0236,18,female,,Unemployed,diabetes,non-smoker,36.21,['none'],1 Claim,family,55,0,heart disease,,36430
+ID_0237,36,female,,Accountant,multiple,non-smoker,20.33,"['heart disease', 'kidney disease']",No Claims,family,70,3.7,heart disease,,36273
+ID_0238,19,female,,Unemployed,none,non-smoker,37.12,"['diabetes', 'kidney disease', 'stroke']",1 Claim,individual,30,0,hypertension,,27902
+ID_0239,61,female,,Doctor,none,non-smoker,29.23,"['diabetes', 'stroke']",No Claims,family,50,7.3,kidney failure,,34178
+ID_0240,43,male,,Retail Worker,none,non-smoker,24.88,['kidney disease'],No Claims,corporate,10,2.1,hypertension,,46847
+ID_0241,49,female,,Manager,none,non-smoker,24.2,['heart disease'],No Claims,individual,40,14.5,hypertension,,29544
+ID_0242,23,female,,Student,none,occasional smoker,27.79,['kidney disease'],1 Claim,individual,25,1.3,tuberculosis (tb),,44852
+ID_0243,49,male,,Engineer,diabetes,non-smoker,39.98,['none'],No Claims,individual,35,4.3,hypertension,,34765
+ID_0244,21,male,,Unemployed,none,non-smoker,23.24,['none'],No Claims,family,0,0,kidney failure,,30092
+ID_0245,28,female,,IT Professional,none,non-smoker,20.72,['diabetes'],No Claims,individual,20,7.1,hypertension,,42127
+ID_0246,34,female,,Entrepreneur,hypertension,non-smoker,31.08,['kidney disease'],No Claims,individual,55,7,heart disease,,22722
+ID_0247,55,male,,Doctor,none,non-smoker,29,"['diabetes', 'heart disease', 'stroke']",No Claims,individual,20,17.1,diabetes,,28248
+ID_0248,41,male,,Manager,none,occasional smoker,29.77,['heart disease'],1 Claim,corporate,25,8.8,heart disease,,35078
+ID_0249,22,male,,Unemployed,none,non-smoker,32.84,['stroke'],1 Claim,family,50,0,heart disease,,33885
+ID_0250,69,female,,Unemployed,multiple,occasional smoker,24.24,"['diabetes', 'heart disease']",No Claims,family,95,0,heart disease,,47475
+ID_0251,51,male,,Entrepreneur,none,occasional smoker,38.08,['not available'],1 Claim,family,85,3.3,hypertension,,33779
+ID_0252,23,female,,Retail Worker,heart disease,occasional smoker,27.87,['diabetes'],1 Claim,individual,85,2.5,tuberculosis (tb),,21247
+ID_0253,39,female,,Manager,hypertension,non-smoker,21.28,"['heart disease', 'kidney disease']",No Claims,family,25,8.2,heart disease,,48848
+ID_0254,28,male,,IT Professional,none,non-smoker,34.46,['none'],1 Claim,family,30,8.8,diabetes,,45507
+ID_0255,65,female,,Doctor,multiple,non-smoker,32.33,['none'],2+ Claims,individual,100,6.7,heart disease,,38770
+ID_0256,33,female,,Entrepreneur,none,non-smoker,25.29,['none'],No Claims,family,30,9.7,diabetes,,35404
+ID_0257,50,male,,Accountant,none,non-smoker,31.86,['heart disease'],No Claims,family,30,5,diabetes,,21207
+ID_0258,26,female,,Teacher,hypertension,occasional smoker,23.23,"['diabetes', 'stroke']",2+ Claims,family,40,3.5,hypertension,,24712
+ID_0259,23,male,,Student,hypertension,non-smoker,28.06,['diabetes'],1 Claim,individual,35,1.4,hypertension,,47250
+ID_0260,33,female,,Engineer,diabetes,non-smoker,37.84,"['diabetes', 'heart disease']",No Claims,corporate,45,4,diabetes,,33034
+ID_0261,46,female,,Accountant,none,non-smoker,21.37,['diabetes'],No Claims,corporate,10,7.1,genetic disorder,,41970
+ID_0262,20,male,,Unemployed,none,non-smoker,26.81,['none'],No Claims,individual,30,0,genetic disorder,,44283
+ID_0263,37,male,,Retail Worker,hypertension,non-smoker,36.15,"['heart disease', 'stroke']",1 Claim,individual,45,2.4,genetic disorder,,38292
+ID_0264,53,female,,Teacher,none,occasional smoker,39.34,['heart disease'],No Claims,individual,45,3.5,diabetes,,20049
+ID_0265,36,male,,Manager,none,non-smoker,28.26,"['diabetes', 'heart disease', 'stroke']",No Claims,corporate,10,14.8,genetic disorder,,49362
+ID_0266,43,male,,Entrepreneur,none,occasional smoker,29.4,['not available'],1 Claim,family,25,8.3,heart disease,,30462
+ID_0267,20,female,,Unemployed,none,occasional smoker,30.8,['not available'],No Claims,individual,65,0,diabetes,,21826
+ID_0268,36,female,,Retail Worker,heart disease,occasional smoker,38.55,['not available'],No Claims,individual,75,2.3,diabetes,,40993
+ID_0269,37,female,,Engineer,none,non-smoker,36.95,['stroke'],No Claims,individual,20,5.4,kidney failure,,40714
+ID_0270,49,female,,Engineer,multiple,occasional smoker,22.17,['none'],1 Claim,family,95,7.6,hypertension,,46578
+ID_0271,24,male,,Student,none,non-smoker,27.89,['none'],No Claims,individual,20,2.4,kidney failure,,49911
+ID_0272,69,male,,Unemployed,hypertension,non-smoker,28.48,"['cancer', 'diabetes', 'kidney disease', 'stroke']",1 Claim,corporate,45,0,diabetes,,38962
+ID_0273,58,female,,Teacher,none,non-smoker,35.47,['heart disease'],No Claims,family,30,3.9,diabetes,,21946
+ID_0274,50,female,,Manager,none,non-smoker,31.46,['heart disease'],No Claims,family,40,13.5,hypertension,,39254
+ID_0275,57,female,,Manager,none,non-smoker,32.57,['heart disease'],No Claims,individual,30,9.4,genetic disorder,,26052
+ID_0276,56,female,,Teacher,none,non-smoker,39.96,['none'],No Claims,individual,30,4.7,hypertension,,26583
+ID_0277,35,female,,Manager,diabetes,non-smoker,20.11,['none'],1 Claim,individual,35,9.9,diabetes,,32168
+ID_0278,57,male,,Entrepreneur,multiple,regular smoker,23.29,['heart disease'],No Claims,individual,100,3.4,genetic disorder,,33846
+ID_0279,18,female,,Unemployed,diabetes,non-smoker,27.27,"['heart disease', 'stroke']",1 Claim,individual,25,0,diabetes,,23340
+ID_0280,28,male,,Teacher,none,non-smoker,25.98,['diabetes'],No Claims,corporate,20,3.1,hypertension,,30427
+ID_0281,45,male,,Doctor,none,non-smoker,18.97,['none'],2+ Claims,individual,10,16.9,diabetes,,47580
+ID_0282,42,male,,Accountant,none,non-smoker,20.47,"['cancer', 'diabetes', 'stroke']",1 Claim,individual,10,4,tuberculosis (tb),,42487
+ID_0283,67,female,,Unemployed,diabetes,regular smoker,33.14,['heart disease'],1 Claim,individual,75,0,tuberculosis (tb),,27764
+ID_0284,40,male,,Accountant,hypertension,non-smoker,37.41,['diabetes'],No Claims,individual,65,7.7,hypertension,,35805
+ID_0285,48,male,,Accountant,heart disease,non-smoker,29.56,['heart disease'],No Claims,corporate,80,5.2,tuberculosis (tb),,27262
+ID_0286,47,female,,Accountant,none,non-smoker,30.09,['heart disease'],No Claims,individual,30,7.5,hypertension,,40067
+ID_0287,59,male,,Teacher,diabetes,regular smoker,23.98,['stroke'],2+ Claims,individual,45,5.4,diabetes,,44890
+ID_0288,52,male,,Teacher,none,non-smoker,35.01,['not available'],No Claims,family,20,3.9,genetic disorder,,36115
+ID_0289,24,male,,Student,diabetes,occasional smoker,34.66,['none'],1 Claim,individual,80,1.7,diabetes,,49492
+ID_0290,33,male,,Accountant,diabetes,non-smoker,31.15,['cancer'],1 Claim,individual,55,7,genetic disorder,,24323
+ID_0291,43,female,,Manager,diabetes,non-smoker,23.07,"['diabetes', 'stroke']",No Claims,individual,25,12.6,genetic disorder,,46741
+ID_0292,65,male,,Doctor,diabetes,non-smoker,20.59,['heart disease'],1 Claim,individual,45,7.1,genetic disorder,,42307
+ID_0293,69,female,,Unemployed,none,occasional smoker,19.88,['cancer'],1 Claim,individual,45,0,diabetes,,31499
+ID_0294,66,female,,Unemployed,hypertension,non-smoker,31.24,"['heart disease', 'kidney disease']",1 Claim,individual,55,0,heart disease,,37844
+ID_0295,19,female,,Unemployed,none,non-smoker,36.24,['cancer'],No Claims,family,50,0,kidney failure,,38160
+ID_0296,18,female,,Unemployed,diabetes,non-smoker,36.95,['none'],No Claims,individual,45,0,hypertension,,44879
+ID_0297,65,male,,Doctor,none,non-smoker,28.47,['diabetes'],No Claims,family,30,6.3,heart disease,,49618
+ID_0298,29,female,,Accountant,diabetes,non-smoker,35.36,"['diabetes', 'heart disease']",1 Claim,family,45,7.3,heart disease,,35491
+ID_0299,22,male,,Unemployed,heart disease,regular smoker,38.86,['kidney disease'],1 Claim,family,90,0,hypertension,,37731
+ID_0300,54,male,,Entrepreneur,heart disease,non-smoker,24.42,['none'],No Claims,individual,30,3.9,heart disease,,25115
+ID_0301,49,male,,Engineer,hypertension,non-smoker,27.06,['heart disease'],2+ Claims,individual,25,4.2,diabetes,,27811
+ID_0302,26,male,,Teacher,diabetes,occasional smoker,38.53,"['cancer', 'heart disease']",No Claims,family,60,5,hypertension,,33742
+ID_0303,58,female,,Entrepreneur,hypertension,non-smoker,25.77,['none'],1 Claim,family,45,3.7,hypertension,,36949
+ID_0304,52,male,,Doctor,diabetes,non-smoker,38.15,['diabetes'],2+ Claims,family,45,13.3,genetic disorder,,47658
+ID_0305,36,female,,Entrepreneur,heart disease,non-smoker,39.59,['kidney disease'],1 Claim,individual,70,3.1,hypertension,,34933
+ID_0306,65,male,,Doctor,none,non-smoker,32.73,['none'],1 Claim,corporate,50,14.3,diabetes,,28898
+ID_0307,33,male,,Manager,multiple,non-smoker,36.06,['none'],No Claims,individual,80,8,tuberculosis (tb),,48062
+ID_0308,20,female,,Unemployed,heart disease,non-smoker,34.62,['none'],No Claims,individual,60,0,diabetes,,37242
+ID_0309,37,male,,Retail Worker,hypertension,non-smoker,33.54,['none'],1 Claim,individual,75,2.8,hypertension,,49661
+ID_0310,41,male,,Doctor,none,non-smoker,25.1,"['diabetes', 'heart disease']",No Claims,individual,40,9.9,genetic disorder,,23635
+ID_0311,50,male,,Accountant,none,regular smoker,19.73,"['diabetes', 'heart disease']",No Claims,individual,50,7.7,hypertension,,48301
+ID_0312,41,male,,Manager,heart disease,occasional smoker,25.88,['none'],1 Claim,family,75,9.9,hypertension,,29933
+ID_0313,69,male,,Unemployed,none,occasional smoker,32.84,['none'],No Claims,family,45,0,hypertension,,36855
+ID_0314,28,male,,Entrepreneur,heart disease,occasional smoker,20.7,['not available'],2+ Claims,family,55,6.5,genetic disorder,,35791
+ID_0315,66,female,,Unemployed,none,non-smoker,18.76,['heart disease'],1 Claim,individual,10,0,diabetes,,31762
+ID_0316,25,female,,Retail Worker,none,occasional smoker,21.5,['none'],1 Claim,family,25,1.8,genetic disorder,,45580
+ID_0317,53,female,,Doctor,heart disease,non-smoker,33.89,['stroke'],1 Claim,individual,70,7.1,diabetes,,48373
+ID_0318,55,male,,Teacher,diabetes,non-smoker,39.42,['heart disease'],1 Claim,individual,55,5.3,diabetes,,42056
+ID_0319,57,male,,Manager,diabetes,non-smoker,39.64,['none'],1 Claim,individual,65,11.4,diabetes,,30696
+ID_0320,37,female,,Engineer,diabetes,non-smoker,29.12,['none'],1 Claim,individual,35,5.3,hypertension,,43768
+ID_0321,52,male,,Accountant,none,occasional smoker,37.19,['none'],No Claims,individual,45,6.2,tuberculosis (tb),,43860
+ID_0322,65,male,,Doctor,hypertension,regular smoker,34.34,"['cancer', 'diabetes']",1 Claim,individual,75,16.5,genetic disorder,,35140
+ID_0323,42,male,,Retail Worker,none,non-smoker,29.27,['kidney disease'],1 Claim,family,30,2.5,diabetes,,40509
+ID_0324,52,female,,Teacher,heart disease,occasional smoker,30.81,['none'],No Claims,corporate,75,4.7,diabetes,,46908
+ID_0325,42,female,,Teacher,heart disease,non-smoker,21.45,['cancer'],No Claims,individual,60,5.9,hypertension,,40721
+ID_0326,46,female,,Manager,none,non-smoker,38.66,"['cancer', 'kidney disease']",1 Claim,corporate,50,12.1,heart disease,,48160
+ID_0327,35,male,,Engineer,hypertension,non-smoker,26.07,['diabetes'],No Claims,family,35,4.1,heart disease,,30341
+ID_0328,63,male,,Doctor,diabetes,non-smoker,28.09,['diabetes'],2+ Claims,family,45,16.5,hypertension,,36656
+ID_0329,35,male,,Accountant,none,regular smoker,32.94,"['diabetes', 'heart disease']",2+ Claims,family,70,3.8,diabetes,,22730
+ID_0330,19,male,,Unemployed,multiple,occasional smoker,25.68,['none'],No Claims,individual,85,0,diabetes,,46511
+ID_0331,52,male,,Entrepreneur,none,occasional smoker,23.97,['diabetes'],1 Claim,family,45,9.6,genetic disorder,,25976
+ID_0332,33,female,,Doctor,none,non-smoker,32.07,['diabetes'],No Claims,family,50,11.1,diabetes,,38139
+ID_0333,58,female,,Manager,diabetes,regular smoker,19.04,"['cancer', 'kidney disease']",1 Claim,corporate,65,12.9,hypertension,,43149
+ID_0334,53,male,,Teacher,diabetes,non-smoker,34,['cancer'],No Claims,family,45,5.5,genetic disorder,,37803
+ID_0335,50,male,,Doctor,diabetes,occasional smoker,29.55,"['diabetes', 'heart disease']",1 Claim,family,90,17.2,diabetes,,35944
+ID_0336,21,female,,Unemployed,hypertension,non-smoker,31.52,['none'],No Claims,family,45,0,diabetes,,41173
+ID_0337,50,female,,Doctor,diabetes,non-smoker,32.09,['heart disease'],No Claims,individual,35,16.3,diabetes,,29484
+ID_0338,31,female,,Accountant,diabetes,non-smoker,29.83,['none'],No Claims,individual,25,6.2,heart disease,,46014
+ID_0339,38,male,,Retail Worker,none,non-smoker,31.02,['cancer'],No Claims,individual,40,2.9,hypertension,,40723
+ID_0340,65,male,,Doctor,none,non-smoker,33.2,['kidney disease'],No Claims,individual,50,11.1,hypertension,,28178
+ID_0341,37,male,,Teacher,none,non-smoker,34.69,['diabetes'],No Claims,individual,50,5.2,heart disease,,22510
+ID_0342,25,male,,Accountant,none,non-smoker,34.14,"['cancer', 'heart disease', 'stroke']",No Claims,family,40,7.5,tuberculosis (tb),,20406
+ID_0343,24,female,,Retail Worker,diabetes,non-smoker,37.2,['cancer'],1 Claim,family,55,2,genetic disorder,,33710
+ID_0344,20,male,,Unemployed,none,non-smoker,22.57,['heart disease'],1 Claim,corporate,20,0,diabetes,,49834
+ID_0345,34,female,,Doctor,none,non-smoker,27.12,"['cancer', 'stroke']",1 Claim,family,30,6.3,genetic disorder,,30102
+ID_0346,50,male,,Engineer,none,non-smoker,38.88,['stroke'],2+ Claims,family,30,4.5,hypertension,,38068
+ID_0347,65,female,,Doctor,heart disease,non-smoker,27.03,['heart disease'],No Claims,corporate,50,7.8,tuberculosis (tb),,36627
+ID_0348,29,female,,IT Professional,heart disease,non-smoker,21.18,['none'],No Claims,family,30,11.4,hypertension,,31747
+ID_0349,68,male,,Unemployed,diabetes,regular smoker,29.8,"['diabetes', 'heart disease']",No Claims,family,75,0,heart disease,,26962
+ID_0350,39,female,,Doctor,heart disease,occasional smoker,20.85,['heart disease'],1 Claim,individual,75,16.3,hypertension,,41135
+ID_0351,39,female,,Accountant,hypertension,non-smoker,22.86,"['diabetes', 'heart disease', 'stroke']",2+ Claims,individual,15,4,hypertension,,22207
+ID_0352,63,female,,Doctor,diabetes,occasional smoker,39.96,['none'],No Claims,individual,70,7.8,hypertension,,27387
+ID_0353,47,male,,Manager,none,occasional smoker,30.14,['heart disease'],No Claims,family,55,10.8,tuberculosis (tb),,30449
+ID_0354,55,female,,Doctor,hypertension,regular smoker,24.61,['not available'],No Claims,family,85,12.4,tuberculosis (tb),,46574
+ID_0355,55,female,,Manager,hypertension,non-smoker,39.89,['none'],1 Claim,individual,45,7.9,diabetes,,34025
+ID_0356,62,female,,Doctor,diabetes,non-smoker,39.28,['none'],1 Claim,individual,45,12.2,heart disease,,45753
+ID_0357,68,male,,Unemployed,hypertension,non-smoker,27.98,['stroke'],No Claims,corporate,35,0,heart disease,,46915
+ID_0358,25,female,,Teacher,diabetes,non-smoker,24.1,"['heart disease', 'kidney disease']",No Claims,family,35,3.1,kidney failure,,46016
+ID_0359,44,male,,Retail Worker,hypertension,non-smoker,36.53,['not available'],1 Claim,individual,55,1.8,heart disease,,28148
+ID_0360,44,male,,Retail Worker,heart disease,non-smoker,33.89,['heart disease'],1 Claim,family,60,2.6,hypertension,,29577
+ID_0361,51,female,,Entrepreneur,none,occasional smoker,33.27,['none'],No Claims,family,45,7.9,diabetes,,25887
+ID_0362,38,female,,Teacher,hypertension,regular smoker,37.7,['cancer'],1 Claim,corporate,85,4.1,genetic disorder,,47459
+ID_0363,47,female,,Teacher,none,non-smoker,33.32,"['heart disease', 'stroke']",No Claims,individual,30,5.2,diabetes,,30960
+ID_0364,50,female,,Manager,diabetes,non-smoker,24.6,['heart disease'],1 Claim,individual,45,13.8,diabetes,,48258
+ID_0365,45,female,,Retail Worker,hypertension,non-smoker,33.42,['heart disease'],1 Claim,individual,45,1.8,diabetes,,43327
+ID_0366,64,female,,Doctor,none,occasional smoker,25.07,"['diabetes', 'heart disease', 'kidney disease']",No Claims,individual,45,6.7,diabetes,,36881
+ID_0367,50,female,,Doctor,diabetes,non-smoker,34.82,['none'],No Claims,family,45,14.7,genetic disorder,,47238
+ID_0368,22,female,,Unemployed,none,non-smoker,31.82,['cancer'],1 Claim,individual,30,0,heart disease,,24380
+ID_0369,65,male,,Doctor,diabetes,non-smoker,20.16,"['cancer', 'heart disease', 'stroke']",No Claims,corporate,25,16.7,kidney failure,,36525
+ID_0370,36,male,,Engineer,none,non-smoker,29.53,"['heart disease', 'stroke']",1 Claim,individual,40,5.6,tuberculosis (tb),,43780
+ID_0371,21,male,,Unemployed,hypertension,non-smoker,25.88,['heart disease'],1 Claim,corporate,35,0,diabetes,,44049
+ID_0372,52,female,,Entrepreneur,none,non-smoker,25.56,['none'],1 Claim,individual,30,5.1,diabetes,,38321
+ID_0373,66,female,,Unemployed,diabetes,occasional smoker,31.45,"['diabetes', 'heart disease']",No Claims,family,60,0,diabetes,,31714
+ID_0374,34,male,,Teacher,none,regular smoker,25.43,"['cancer', 'diabetes', 'kidney disease']",No Claims,corporate,60,5.2,kidney failure,,35899
+ID_0375,61,male,,Doctor,heart disease,regular smoker,35.2,['diabetes'],1 Claim,corporate,80,10.8,diabetes,,37515
+ID_0376,45,male,,Teacher,heart disease,regular smoker,20.02,"['diabetes', 'kidney disease', 'stroke']",No Claims,individual,60,4,diabetes,,31060
+ID_0377,47,female,,Manager,multiple,non-smoker,32.7,"['diabetes', 'stroke']",1 Claim,individual,100,12.8,diabetes,,36646
+ID_0378,46,female,,Engineer,hypertension,non-smoker,35.9,['none'],1 Claim,family,35,5.3,hypertension,,42990
+ID_0379,63,female,,Doctor,hypertension,occasional smoker,32.97,"['cancer', 'heart disease']",No Claims,individual,70,15.7,tuberculosis (tb),,39207
+ID_0380,23,male,,IT Professional,none,regular smoker,29.19,['diabetes'],1 Claim,individual,80,6.1,heart disease,,37004
+ID_0381,52,female,,Accountant,none,non-smoker,38.93,['stroke'],No Claims,individual,30,5.6,hypertension,,29826
+ID_0382,58,male,,Manager,none,non-smoker,24.95,['diabetes'],No Claims,family,20,11.6,diabetes,,32963
+ID_0383,54,female,,Accountant,hypertension,non-smoker,18.91,['heart disease'],2+ Claims,family,25,5,diabetes,,33695
+ID_0384,41,male,,Retail Worker,heart disease,non-smoker,27.79,"['cancer', 'heart disease']",2+ Claims,individual,60,2.7,genetic disorder,,45177
+ID_0385,46,male,,Accountant,none,non-smoker,19.21,['none'],No Claims,individual,10,5.6,genetic disorder,,33746
+ID_0386,66,male,,Unemployed,heart disease,non-smoker,39.01,['stroke'],2+ Claims,individual,60,0,tuberculosis (tb),,20510
+ID_0387,63,female,,Doctor,diabetes,non-smoker,23.01,['none'],No Claims,family,35,10,heart disease,,32723
+ID_0388,48,female,,Teacher,diabetes,non-smoker,35.46,['none'],No Claims,individual,65,5,genetic disorder,,38882
+ID_0389,52,male,,Manager,none,occasional smoker,35.15,['cancer'],No Claims,individual,45,12.3,heart disease,,29524
+ID_0390,50,male,,Accountant,none,non-smoker,23.18,"['cancer', 'heart disease', 'stroke']",2+ Claims,corporate,10,6,hypertension,,21164
+ID_0391,69,female,,Unemployed,diabetes,non-smoker,31.86,['none'],No Claims,corporate,45,0,kidney failure,,34509
+ID_0392,38,male,,Teacher,diabetes,non-smoker,19.53,['stroke'],No Claims,corporate,35,3.1,diabetes,,49531
+ID_0393,49,female,,Doctor,none,occasional smoker,28.9,"['cancer', 'diabetes']",No Claims,family,25,16.5,heart disease,,40166
+ID_0394,40,female,,Engineer,diabetes,non-smoker,18.81,['none'],1 Claim,individual,45,4.8,diabetes,,42399
+ID_0395,50,female,,Manager,heart disease,regular smoker,38.3,['none'],No Claims,family,100,11.9,diabetes,,26300
+ID_0396,20,male,,Unemployed,hypertension,non-smoker,39.49,"['diabetes', 'heart disease', 'stroke']",No Claims,individual,55,0,tuberculosis (tb),,49381
+ID_0397,35,female,,Doctor,heart disease,regular smoker,23.28,['none'],No Claims,family,80,10.8,diabetes,,37276
+ID_0398,42,male,,Engineer,none,regular smoker,22.97,['none'],1 Claim,individual,40,7.4,genetic disorder,,32997
+ID_0399,59,female,,Entrepreneur,none,non-smoker,34.7,['stroke'],1 Claim,family,30,4.2,tuberculosis (tb),,46703
+ID_0400,48,male,,Manager,hypertension,non-smoker,23.95,['diabetes'],No Claims,family,25,8.4,hypertension,,49104
+ID_0401,20,female,,Unemployed,none,non-smoker,37.74,['kidney disease'],1 Claim,individual,50,0,heart disease,,37587
+ID_0402,57,female,,Doctor,none,non-smoker,30.84,"['diabetes', 'heart disease']",No Claims,family,30,14.4,diabetes,,37490
+ID_0403,63,female,,Doctor,none,non-smoker,26.04,['none'],1 Claim,individual,20,13.5,hypertension,,23717
+ID_0404,41,female,,Doctor,none,non-smoker,36.4,['none'],No Claims,individual,40,16.9,tuberculosis (tb),,30446
+ID_0405,67,female,,Unemployed,none,non-smoker,29.11,['heart disease'],No Claims,individual,20,0,diabetes,,36016
+ID_0406,49,male,,Manager,none,non-smoker,38.1,['none'],No Claims,individual,30,13.5,hypertension,,40394
+ID_0407,64,female,,Doctor,none,non-smoker,38.45,['heart disease'],1 Claim,individual,30,16.1,heart disease,,33442
+ID_0408,39,male,,Retail Worker,none,non-smoker,22.06,['none'],1 Claim,corporate,20,2.6,diabetes,,21833
+ID_0409,40,male,,Entrepreneur,diabetes,non-smoker,18.55,['none'],No Claims,individual,15,5,hypertension,,28147
+ID_0410,19,male,,Unemployed,diabetes,non-smoker,39.65,"['diabetes', 'heart disease', 'stroke']",1 Claim,individual,35,0,hypertension,,35711
+ID_0411,44,female,,Manager,diabetes,non-smoker,37.98,"['cancer', 'diabetes', 'stroke']",No Claims,individual,35,9.4,genetic disorder,,48276
+ID_0412,59,male,,Doctor,none,non-smoker,19.69,['heart disease'],No Claims,family,20,12.5,hypertension,,47646
+ID_0413,19,female,,Unemployed,none,occasional smoker,36.41,['none'],No Claims,family,45,0,heart disease,,36533
+ID_0414,43,female,,Retail Worker,diabetes,non-smoker,28.34,"['diabetes', 'stroke']",1 Claim,family,35,2.7,kidney failure,,46444
+ID_0415,34,male,,Engineer,diabetes,non-smoker,24.07,['heart disease'],1 Claim,family,25,7.2,genetic disorder,,46960
+ID_0416,57,male,,Entrepreneur,diabetes,non-smoker,37.39,['none'],No Claims,corporate,45,8,diabetes,,43901
+ID_0417,50,male,,Entrepreneur,none,occasional smoker,22.73,['stroke'],No Claims,family,15,3.1,tuberculosis (tb),,49551
+ID_0418,26,female,,IT Professional,heart disease,occasional smoker,38.87,['cancer'],No Claims,family,75,11.1,kidney failure,,22358
+ID_0419,60,female,,Doctor,none,occasional smoker,22.92,['stroke'],No Claims,individual,15,8.3,genetic disorder,,34456
+ID_0420,65,female,,Doctor,none,non-smoker,31.69,"['cancer', 'diabetes']",No Claims,family,20,10.1,hypertension,,40311
+ID_0421,56,female,,Teacher,diabetes,non-smoker,23.3,"['cancer', 'stroke']",No Claims,family,35,5.8,tuberculosis (tb),,47368
+ID_0422,46,male,,Accountant,diabetes,non-smoker,30.23,['none'],No Claims,family,45,7.9,hypertension,,33006
+ID_0423,59,male,,Doctor,none,non-smoker,33.21,['heart disease'],No Claims,family,30,9.9,diabetes,,43395
+ID_0424,43,male,,Doctor,none,regular smoker,22.59,['diabetes'],No Claims,family,40,17.1,heart disease,,36134
+ID_0425,52,male,,Accountant,hypertension,non-smoker,29.7,['none'],No Claims,family,35,5.2,kidney failure,,29198
+ID_0426,67,male,,Unemployed,none,occasional smoker,28.58,"['cancer', 'heart disease']",No Claims,individual,35,0,kidney failure,,40530
+ID_0427,42,female,,Manager,none,non-smoker,20.03,['heart disease'],1 Claim,individual,20,12.4,kidney failure,,20896
+ID_0428,41,female,,Retail Worker,none,occasional smoker,36.09,['none'],No Claims,individual,55,2,diabetes,,39350
+ID_0429,30,male,,Entrepreneur,hypertension,non-smoker,25.72,['diabetes'],1 Claim,corporate,45,5.5,genetic disorder,,47513
+ID_0430,24,female,,Retail Worker,none,non-smoker,30.85,['stroke'],No Claims,family,40,1.8,genetic disorder,,23406
+ID_0431,53,male,,Doctor,multiple,non-smoker,29.57,"['heart disease', 'stroke']",No Claims,family,90,10.9,heart disease,,26379
+ID_0432,62,female,,Doctor,diabetes,non-smoker,29.54,['diabetes'],No Claims,family,45,12,hypertension,,46917
+ID_0433,37,female,,Manager,multiple,non-smoker,20.81,"['heart disease', 'kidney disease']",No Claims,family,60,12.6,tuberculosis (tb),,44119
+ID_0434,18,female,,Unemployed,heart disease,occasional smoker,27.6,['not available'],No Claims,corporate,55,0,diabetes,,34980
+ID_0435,25,male,,Retail Worker,none,non-smoker,28.23,['none'],2+ Claims,family,20,1.9,diabetes,,24916
+ID_0436,63,female,,Doctor,none,non-smoker,34.27,['none'],No Claims,family,50,15.8,genetic disorder,,23897
+ID_0437,33,female,,Retail Worker,none,non-smoker,36.56,['none'],No Claims,family,30,2.5,heart disease,,30977
+ID_0438,31,male,,Retail Worker,none,non-smoker,30.22,['none'],1 Claim,individual,50,3.3,diabetes,,21021
+ID_0439,29,female,,Student,hypertension,occasional smoker,20.37,['diabetes'],No Claims,family,50,1.3,hypertension,,47709
+ID_0440,68,female,,Unemployed,none,occasional smoker,23.59,['none'],1 Claim,individual,35,0,heart disease,,40667
+ID_0441,40,male,,Teacher,none,occasional smoker,22.05,"['diabetes', 'kidney disease', 'stroke']",No Claims,individual,15,5.3,kidney failure,,39721
+ID_0442,32,female,,IT Professional,none,occasional smoker,21.18,['kidney disease'],2+ Claims,family,25,5.6,hypertension,,41113
+ID_0443,45,female,,Doctor,heart disease,occasional smoker,26.37,['none'],No Claims,family,75,12,heart disease,,27891
+ID_0444,51,male,,Accountant,none,non-smoker,23.43,['none'],No Claims,corporate,40,3.6,diabetes,,35478
+ID_0445,19,female,,Unemployed,none,occasional smoker,23.19,['none'],1 Claim,individual,25,0,genetic disorder,,33251
+ID_0446,49,male,,Accountant,none,non-smoker,19.68,['none'],No Claims,individual,20,7.6,diabetes,,48972
+ID_0447,40,female,,Manager,heart disease,non-smoker,18.88,['diabetes'],No Claims,individual,40,11.7,diabetes,,23379
+ID_0448,39,male,,Retail Worker,diabetes,non-smoker,20.71,['heart disease'],1 Claim,individual,35,3,diabetes,,38754
+ID_0449,68,male,,Unemployed,none,occasional smoker,22.2,['diabetes'],No Claims,individual,35,0,kidney failure,,38324
+ID_0450,42,female,,Retail Worker,none,occasional smoker,27.77,['diabetes'],No Claims,individual,35,1.7,diabetes,,27441
+ID_0451,39,male,,Retail Worker,none,non-smoker,29.48,['stroke'],1 Claim,individual,20,3.2,heart disease,,32263
+ID_0452,39,female,,Entrepreneur,none,occasional smoker,21.52,['none'],No Claims,individual,35,9.9,diabetes,,43961
+ID_0453,66,female,,Unemployed,heart disease,regular smoker,27.63,['heart disease'],1 Claim,individual,90,0,heart disease,,42736
+ID_0454,69,male,,Unemployed,hypertension,non-smoker,25.85,['none'],2+ Claims,family,55,0,genetic disorder,,31981
+ID_0455,59,female,,Doctor,none,non-smoker,22.44,['none'],No Claims,individual,30,15.5,genetic disorder,,28435
+ID_0456,23,female,,IT Professional,heart disease,occasional smoker,18.65,['cancer'],No Claims,family,55,5.5,kidney failure,,38793
+ID_0457,32,female,,Accountant,none,non-smoker,28.54,['none'],No Claims,family,20,5.1,hypertension,,35062
+ID_0458,60,male,,Entrepreneur,hypertension,non-smoker,33.24,['stroke'],No Claims,individual,85,8.9,hypertension,,27959
+ID_0459,54,male,,Doctor,heart disease,non-smoker,23.36,['cancer'],2+ Claims,corporate,70,17.7,diabetes,,34185
+ID_0460,50,female,,Accountant,none,non-smoker,21.33,['none'],No Claims,family,30,6.2,diabetes,,44309
+ID_0461,25,male,,Engineer,hypertension,occasional smoker,37.57,['none'],No Claims,family,50,8,genetic disorder,,43976
+ID_0462,61,male,,Doctor,none,non-smoker,24.41,"['heart disease', 'stroke']",1 Claim,individual,20,9.7,heart disease,,42697
+ID_0463,61,female,,Doctor,none,occasional smoker,23.31,['heart disease'],1 Claim,family,45,15.8,heart disease,,34895
+ID_0464,22,female,,Unemployed,none,occasional smoker,36.93,['stroke'],No Claims,family,55,0,diabetes,,22448
+ID_0465,56,female,,Teacher,none,occasional smoker,36.07,['heart disease'],No Claims,individual,65,4.5,heart disease,,41470
+ID_0466,21,male,,Unemployed,hypertension,non-smoker,28.14,"['kidney disease', 'stroke']",1 Claim,individual,35,0,heart disease,,40557
+ID_0467,23,female,,Student,heart disease,non-smoker,29.02,['kidney disease'],2+ Claims,individual,50,1.9,hypertension,,32300
+ID_0468,62,male,,Doctor,diabetes,non-smoker,23.18,['diabetes'],1 Claim,family,35,11.7,hypertension,,39171
+ID_0469,49,female,,Accountant,heart disease,non-smoker,20.18,['none'],No Claims,individual,50,4.4,heart disease,,20011
+ID_0470,69,female,,Unemployed,hypertension,occasional smoker,30.83,['stroke'],No Claims,family,60,0,diabetes,,35284
+ID_0471,47,male,,Engineer,none,non-smoker,20.61,['heart disease'],No Claims,individual,30,5.9,kidney failure,,47643
+ID_0472,64,male,,Doctor,none,non-smoker,28.16,['cancer'],No Claims,family,30,13.1,kidney failure,,30369
+ID_0473,52,male,,Doctor,none,non-smoker,38.72,"['diabetes', 'stroke']",2+ Claims,individual,20,11.6,heart disease,,43188
+ID_0474,57,female,,Teacher,diabetes,occasional smoker,38.99,['diabetes'],1 Claim,individual,80,4.1,diabetes,,28530
+ID_0475,69,female,,Unemployed,heart disease,occasional smoker,23.65,"['diabetes', 'stroke']",2+ Claims,family,65,0,kidney failure,,22475
+ID_0476,33,female,,Accountant,none,non-smoker,31.92,['diabetes'],No Claims,individual,30,3.4,heart disease,,34581
+ID_0477,30,male,,Entrepreneur,hypertension,occasional smoker,28.69,['not available'],1 Claim,individual,60,9.8,heart disease,,44854
+ID_0478,67,female,,Unemployed,diabetes,non-smoker,37.33,"['heart disease', 'kidney disease', 'stroke']",1 Claim,individual,45,0,genetic disorder,,46813
+ID_0479,59,female,,Manager,diabetes,non-smoker,24.34,['diabetes'],1 Claim,family,35,9.3,kidney failure,,26321
+ID_0480,47,male,,Teacher,none,occasional smoker,18.58,['heart disease'],No Claims,corporate,55,4.5,tuberculosis (tb),,29355
+ID_0481,36,female,,Doctor,none,non-smoker,22,['none'],No Claims,family,20,10.7,genetic disorder,,24740
+ID_0482,34,male,,Retail Worker,none,regular smoker,26.01,"['heart disease', 'stroke']",1 Claim,individual,70,1.9,genetic disorder,,42281
+ID_0483,36,female,,Entrepreneur,none,non-smoker,25.29,['diabetes'],No Claims,individual,20,3.6,kidney failure,,46063
+ID_0484,45,female,,Entrepreneur,none,non-smoker,35.51,['heart disease'],2+ Claims,family,40,3.3,diabetes,,40338
+ID_0485,43,female,,Accountant,diabetes,regular smoker,33.13,"['cancer', 'diabetes', 'stroke']",No Claims,family,75,5,hypertension,,22333
+ID_0486,54,female,,Teacher,none,non-smoker,24.94,"['cancer', 'diabetes']",1 Claim,individual,10,5.8,heart disease,,38875
+ID_0487,43,male,,Doctor,heart disease,regular smoker,28.34,['heart disease'],1 Claim,individual,80,7.6,tuberculosis (tb),,30606
+ID_0488,40,male,,Entrepreneur,diabetes,regular smoker,20.55,"['diabetes', 'heart disease']",1 Claim,individual,65,7,heart disease,,30039
+ID_0489,26,male,,Retail Worker,diabetes,non-smoker,37.81,['heart disease'],No Claims,family,55,3,tuberculosis (tb),,23125
+ID_0490,29,female,,Accountant,none,non-smoker,38.61,['none'],2+ Claims,individual,40,3.6,hypertension,,22120
+ID_0491,18,female,,Unemployed,diabetes,non-smoker,39.57,['none'],1 Claim,family,55,0,kidney failure,,23913
+ID_0492,18,male,,Unemployed,heart disease,non-smoker,37.17,['heart disease'],No Claims,individual,60,0,hypertension,,44512
+ID_0493,64,male,,Doctor,none,non-smoker,22.24,['cancer'],1 Claim,individual,50,6.7,diabetes,,22456
+ID_0494,51,female,,Teacher,none,non-smoker,19.49,['none'],No Claims,individual,10,3,kidney failure,,29256
+ID_0495,49,male,,Doctor,hypertension,non-smoker,30.96,"['diabetes', 'stroke']",No Claims,individual,45,15.2,diabetes,,40631
+ID_0496,65,female,,Doctor,none,non-smoker,38.12,['none'],No Claims,individual,40,12.7,diabetes,,40488
+ID_0497,42,female,,Engineer,none,regular smoker,22.31,['kidney disease'],1 Claim,individual,50,6.9,diabetes,,47164
+ID_0498,57,female,,Entrepreneur,none,occasional smoker,18.65,['not available'],No Claims,individual,35,6.9,genetic disorder,,42071
+ID_0499,62,female,,Doctor,none,occasional smoker,35.82,['none'],1 Claim,individual,55,10.4,kidney failure,,41098
+ID_0500,18,female,,Unemployed,diabetes,non-smoker,20.15,['none'],No Claims,individual,35,0,hypertension,,37693
+ID_0501,33,female,,Manager,none,occasional smoker,27.39,['none'],No Claims,corporate,65,14.2,diabetes,,47325
+ID_0502,56,male,,Doctor,heart disease,non-smoker,33.1,['not available'],2+ Claims,family,60,12,hypertension,,29568
+ID_0503,22,male,,Unemployed,hypertension,occasional smoker,23.59,['kidney disease'],1 Claim,family,30,0,hypertension,,27660
+ID_0504,39,male,,Retail Worker,diabetes,regular smoker,20.31,['cancer'],2+ Claims,individual,65,3,hypertension,,23003
+ID_0505,46,female,,Engineer,diabetes,non-smoker,35.06,['heart disease'],No Claims,individual,55,5,kidney failure,,33988
+ID_0506,20,female,,Unemployed,heart disease,non-smoker,32.05,['diabetes'],No Claims,individual,50,0,kidney failure,,37414
+ID_0507,29,male,,Entrepreneur,none,occasional smoker,39.75,"['heart disease', 'stroke']",1 Claim,family,65,8.6,hypertension,,46840
+ID_0508,43,male,,Retail Worker,heart disease,regular smoker,25.9,"['diabetes', 'heart disease']",1 Claim,individual,70,3.4,heart disease,,22560
+ID_0509,33,male,,Entrepreneur,hypertension,occasional smoker,19.83,['kidney disease'],No Claims,individual,30,7.8,kidney failure,,27163
+ID_0510,68,male,,Unemployed,hypertension,non-smoker,34.29,['none'],No Claims,family,55,0,hypertension,,42809
+ID_0511,54,male,,Entrepreneur,diabetes,non-smoker,29.72,"['heart disease', 'kidney disease', 'stroke']",1 Claim,individual,45,3.8,diabetes,,48841
+ID_0512,39,female,,Entrepreneur,none,non-smoker,23.08,['none'],No Claims,individual,10,3.2,tuberculosis (tb),,40495
+ID_0513,46,male,,Manager,none,occasional smoker,35.31,['stroke'],1 Claim,individual,45,7,hypertension,,30941
+ID_0514,31,female,,IT Professional,hypertension,non-smoker,22.88,['cancer'],No Claims,family,25,9.7,diabetes,,44450
+ID_0515,45,female,,Entrepreneur,none,occasional smoker,24.1,"['diabetes', 'stroke']",No Claims,family,65,7.2,heart disease,,40877
+ID_0516,22,female,,Unemployed,hypertension,non-smoker,20.49,['cancer'],2+ Claims,individual,65,0,heart disease,,40641
+ID_0517,64,female,,Doctor,none,non-smoker,27.09,['not available'],No Claims,individual,40,16.4,genetic disorder,,38181
+ID_0518,66,female,,Unemployed,none,non-smoker,27.51,"['diabetes', 'kidney disease']",No Claims,family,40,0,hypertension,,26183
+ID_0519,47,female,,Manager,none,occasional smoker,29.56,"['cancer', 'stroke']",1 Claim,individual,45,11.9,genetic disorder,,37014
+ID_0520,63,female,,Doctor,none,non-smoker,33.74,"['cancer', 'diabetes', 'heart disease']",No Claims,family,20,6.9,tuberculosis (tb),,45159
+ID_0521,69,male,,Unemployed,diabetes,non-smoker,37.98,"['diabetes', 'heart disease']",No Claims,family,35,0,kidney failure,,22569
+ID_0522,22,male,,Unemployed,none,non-smoker,21.46,['cancer'],1 Claim,individual,10,0,genetic disorder,,23074
+ID_0523,29,female,,Entrepreneur,multiple,non-smoker,19.67,['diabetes'],No Claims,individual,70,6.1,hypertension,,45404
+ID_0524,33,female,,Accountant,diabetes,non-smoker,18.9,['heart disease'],No Claims,family,65,6.1,diabetes,,42055
+ID_0525,43,female,,Manager,none,occasional smoker,21.59,"['cancer', 'heart disease']",No Claims,individual,35,9.9,tuberculosis (tb),,43327
+ID_0526,43,male,,Teacher,diabetes,non-smoker,32.65,"['diabetes', 'heart disease']",No Claims,individual,55,3,kidney failure,,48180
+ID_0527,65,male,,Doctor,heart disease,non-smoker,34.14,['heart disease'],1 Claim,family,70,12.8,tuberculosis (tb),,21296
+ID_0528,38,male,,Engineer,hypertension,occasional smoker,35.41,['diabetes'],1 Claim,individual,90,5.5,genetic disorder,,28073
+ID_0529,56,female,,Entrepreneur,none,regular smoker,23.74,['cancer'],No Claims,individual,50,6.4,kidney failure,,30837
+ID_0530,53,male,,Manager,heart disease,non-smoker,25.08,['stroke'],1 Claim,individual,50,10.4,diabetes,,27772
+ID_0531,50,male,,Accountant,hypertension,non-smoker,28.89,"['diabetes', 'heart disease']",2+ Claims,family,45,5.6,heart disease,,36629
+ID_0532,47,male,,Teacher,none,occasional smoker,19.86,['heart disease'],No Claims,individual,55,4.1,diabetes,,29016
+ID_0533,54,female,,Teacher,none,regular smoker,31.64,['none'],1 Claim,corporate,60,5.8,genetic disorder,,21044
+ID_0534,40,male,,Accountant,diabetes,occasional smoker,39.65,['heart disease'],No Claims,family,80,4.4,genetic disorder,,28599
+ID_0535,27,female,,Student,none,non-smoker,26.26,"['diabetes', 'stroke']",1 Claim,individual,10,1.1,tuberculosis (tb),,45089
+ID_0536,22,female,,Unemployed,hypertension,non-smoker,34.69,['heart disease'],2+ Claims,individual,45,0,tuberculosis (tb),,49868
+ID_0537,53,male,,Entrepreneur,none,occasional smoker,29.25,['none'],No Claims,individual,55,3.6,diabetes,,32425
+ID_0538,51,male,,Teacher,heart disease,non-smoker,21.25,"['heart disease', 'kidney disease']",No Claims,family,30,3.1,hypertension,,46505
+ID_0539,69,male,,Unemployed,diabetes,non-smoker,31.02,"['cancer', 'stroke']",No Claims,family,65,0,diabetes,,38308
+ID_0540,48,male,,Manager,none,occasional smoker,24.95,['cancer'],No Claims,family,25,11.9,hypertension,,36424
+ID_0541,27,male,,Engineer,none,non-smoker,19.24,['cancer'],No Claims,individual,30,4,hypertension,,24412
+ID_0542,36,male,,Doctor,diabetes,non-smoker,32.15,['diabetes'],1 Claim,family,35,14.5,diabetes,,23097
+ID_0543,49,male,,Engineer,hypertension,non-smoker,36.97,['heart disease'],No Claims,individual,55,4,hypertension,,47590
+ID_0544,18,female,,Unemployed,hypertension,non-smoker,25.91,['diabetes'],No Claims,family,45,0,heart disease,,33767
+ID_0545,22,female,,Unemployed,none,non-smoker,26.89,['heart disease'],1 Claim,family,50,0,genetic disorder,,21499
+ID_0546,62,male,,Doctor,none,occasional smoker,37.66,['not available'],No Claims,individual,75,12.1,tuberculosis (tb),,21107
+ID_0547,21,female,,Unemployed,none,non-smoker,35.99,['none'],2+ Claims,individual,30,0,diabetes,,42789
+ID_0548,33,female,,Engineer,diabetes,non-smoker,33.87,['none'],1 Claim,family,55,7.3,hypertension,,30846
+ID_0549,41,male,,Entrepreneur,none,regular smoker,23.85,['none'],No Claims,family,40,7.1,tuberculosis (tb),,40456
+ID_0550,33,female,,IT Professional,none,non-smoker,38.07,['none'],No Claims,individual,40,11,hypertension,,20898
+ID_0551,19,male,,Unemployed,diabetes,non-smoker,21.82,['none'],No Claims,individual,25,0,diabetes,,31582
+ID_0552,66,female,,Unemployed,heart disease,regular smoker,31.98,"['diabetes', 'stroke']",1 Claim,family,90,0,heart disease,,47263
+ID_0553,45,female,,Accountant,none,occasional smoker,19.12,['cancer'],No Claims,individual,25,3.1,hypertension,,47243
+ID_0554,49,female,,Accountant,none,non-smoker,32.34,['heart disease'],1 Claim,individual,40,7,genetic disorder,,22902
+ID_0555,44,female,,Teacher,diabetes,occasional smoker,24.46,['none'],1 Claim,individual,30,5.4,hypertension,,33726
+ID_0556,37,male,,Retail Worker,diabetes,non-smoker,28.17,['none'],No Claims,individual,45,2.7,kidney failure,,40108
+ID_0557,41,male,,Manager,none,occasional smoker,25.92,['none'],1 Claim,family,65,7.4,tuberculosis (tb),,31628
+ID_0558,29,male,,IT Professional,heart disease,non-smoker,22.21,['diabetes'],No Claims,corporate,40,5,kidney failure,,29959
+ID_0559,67,female,,Unemployed,hypertension,occasional smoker,31.87,"['heart disease', 'stroke']",2+ Claims,family,70,0,diabetes,,20257
+ID_0560,52,male,,Teacher,none,non-smoker,37.46,['not available'],No Claims,individual,40,5.4,hypertension,,47036
+ID_0561,50,male,,Entrepreneur,none,non-smoker,39.12,"['cancer', 'stroke']",1 Claim,family,50,6,heart disease,,46161
+ID_0562,50,male,,Doctor,diabetes,non-smoker,22.64,"['cancer', 'heart disease', 'stroke']",No Claims,individual,35,6.6,diabetes,,40280
+ID_0563,68,female,,Unemployed,hypertension,non-smoker,33.92,"['cancer', 'kidney disease']",1 Claim,individual,65,0,hypertension,,34115
+ID_0564,60,male,,Teacher,none,occasional smoker,32.78,['kidney disease'],No Claims,corporate,85,4.4,diabetes,,48219
+ID_0565,54,female,,Teacher,diabetes,non-smoker,25.88,['diabetes'],No Claims,individual,25,4.5,genetic disorder,,33000
+ID_0566,29,male,,Student,diabetes,non-smoker,18.91,['none'],No Claims,corporate,45,0.9,genetic disorder,,41351
+ID_0567,20,male,,Unemployed,none,non-smoker,33.33,['diabetes'],No Claims,individual,40,0,diabetes,,23298
+ID_0568,18,female,,Unemployed,diabetes,non-smoker,38.83,"['diabetes', 'heart disease']",1 Claim,family,65,0,hypertension,,47842
+ID_0569,50,male,,Accountant,heart disease,occasional smoker,32.09,['stroke'],1 Claim,individual,100,5.8,heart disease,,28292
+ID_0570,57,male,,Doctor,none,occasional smoker,27.86,['none'],No Claims,individual,25,16.8,genetic disorder,,48279
+ID_0571,27,male,,Teacher,none,non-smoker,29.79,['stroke'],No Claims,individual,20,4.4,diabetes,,22718
+ID_0572,60,male,,Doctor,none,regular smoker,22.79,['none'],No Claims,family,40,8.8,heart disease,,20943
+ID_0573,61,male,,Doctor,heart disease,occasional smoker,34.64,['cancer'],No Claims,family,85,10.6,heart disease,,31570
+ID_0574,46,male,,Entrepreneur,multiple,non-smoker,34.55,['kidney disease'],No Claims,family,80,9.4,diabetes,,35615
+ID_0575,30,female,,Doctor,none,non-smoker,21.63,['none'],No Claims,family,10,15.8,kidney failure,,27079
+ID_0576,29,female,,Teacher,hypertension,regular smoker,37.38,['diabetes'],No Claims,family,85,3.2,hypertension,,49441
+ID_0577,48,male,,Doctor,diabetes,non-smoker,24.29,['cancer'],No Claims,individual,15,17.9,diabetes,,27437
+ID_0578,63,female,,Doctor,diabetes,occasional smoker,39.62,['none'],2+ Claims,individual,70,8.1,heart disease,,32348
+ID_0579,19,male,,Unemployed,none,non-smoker,26.73,['none'],No Claims,family,10,0,kidney failure,,43910
+ID_0580,68,male,,Unemployed,none,non-smoker,22.32,['none'],No Claims,family,10,0,heart disease,,35305
+ID_0581,67,female,,Unemployed,none,non-smoker,26.06,['diabetes'],1 Claim,family,40,0,genetic disorder,,22948
+ID_0582,52,female,,Doctor,diabetes,non-smoker,27.96,"['diabetes', 'heart disease', 'stroke']",1 Claim,individual,55,6.8,heart disease,,43278
+ID_0583,40,male,,Teacher,none,regular smoker,19.99,['heart disease'],No Claims,individual,40,4.5,hypertension,,47593
+ID_0584,34,male,,Engineer,heart disease,non-smoker,30.93,['kidney disease'],1 Claim,corporate,60,6.7,genetic disorder,,34774
+ID_0585,43,female,,Engineer,none,non-smoker,31.35,['diabetes'],1 Claim,family,40,6.2,diabetes,,35785
+ID_0586,25,female,,Teacher,none,regular smoker,34.39,['none'],No Claims,individual,80,4.9,diabetes,,37327
+ID_0587,46,female,,Teacher,diabetes,non-smoker,19.13,['none'],No Claims,family,25,5.2,genetic disorder,,43215
+ID_0588,43,male,,Engineer,hypertension,non-smoker,30.14,['stroke'],No Claims,corporate,45,4,heart disease,,43663
+ID_0589,27,male,,Accountant,none,occasional smoker,19.64,"['heart disease', 'kidney disease']",No Claims,individual,25,6.9,diabetes,,30007
+ID_0590,43,female,,Engineer,none,occasional smoker,33.57,"['diabetes', 'heart disease']",No Claims,family,35,5.1,hypertension,,25917
+ID_0591,51,female,,Entrepreneur,multiple,non-smoker,19.7,"['heart disease', 'kidney disease', 'stroke']",1 Claim,corporate,60,9.8,kidney failure,,31322
+ID_0592,68,male,,Unemployed,none,non-smoker,38.1,"['diabetes', 'heart disease']",No Claims,corporate,20,0,kidney failure,,43497
+ID_0593,58,female,,Teacher,none,non-smoker,33.59,"['diabetes', 'heart disease']",No Claims,corporate,40,4.2,heart disease,,45182
+ID_0594,24,female,,IT Professional,hypertension,non-smoker,29.41,['none'],No Claims,family,35,6.7,diabetes,,41154
+ID_0595,21,female,,Unemployed,none,non-smoker,27.99,['heart disease'],No Claims,individual,10,0,diabetes,,49964
+ID_0596,67,female,,Unemployed,none,non-smoker,21.31,"['diabetes', 'heart disease']",1 Claim,individual,40,0,tuberculosis (tb),,21508
+ID_0597,62,female,,Doctor,none,non-smoker,24.76,"['heart disease', 'kidney disease']",No Claims,individual,10,8.5,genetic disorder,,27748
+ID_0598,28,male,,Retail Worker,none,non-smoker,37.18,['heart disease'],2+ Claims,individual,30,2.5,hypertension,,24144
+ID_0599,46,female,,Manager,none,non-smoker,37.95,['none'],No Claims,individual,50,8.4,kidney failure,,47649
+ID_0600,53,male,,Entrepreneur,none,non-smoker,18.52,['heart disease'],No Claims,individual,10,3.8,diabetes,,47359
+ID_0601,42,male,,Doctor,none,occasional smoker,31.27,['diabetes'],1 Claim,individual,55,14.6,hypertension,,25176
+ID_0602,38,female,,Accountant,none,occasional smoker,33.96,['diabetes'],No Claims,individual,55,4.4,hypertension,,30760
+ID_0603,53,female,,Accountant,hypertension,non-smoker,31.8,['stroke'],No Claims,family,45,6.1,genetic disorder,,48955
+ID_0604,27,female,,Teacher,none,non-smoker,20.26,"['cancer', 'stroke']",1 Claim,individual,30,5.4,heart disease,,20440
+ID_0605,54,male,,Manager,none,non-smoker,23.18,"['cancer', 'heart disease']",No Claims,family,20,9.5,diabetes,,34740
+ID_0606,26,female,,Retail Worker,heart disease,non-smoker,23.88,"['diabetes', 'heart disease', 'stroke']",1 Claim,family,40,1.8,kidney failure,,44755
+ID_0607,41,female,,Engineer,diabetes,non-smoker,36.38,['not available'],2+ Claims,individual,35,7.3,tuberculosis (tb),,46266
+ID_0608,52,female,,Entrepreneur,none,non-smoker,28.46,"['cancer', 'diabetes', 'heart disease']",No Claims,corporate,20,6.2,heart disease,,26413
+ID_0609,66,male,,Unemployed,heart disease,non-smoker,28.97,['none'],No Claims,family,70,0,genetic disorder,,25332
+ID_0610,52,female,,Entrepreneur,none,occasional smoker,38.6,['none'],No Claims,individual,45,6.5,heart disease,,42896
+ID_0611,65,female,,Doctor,none,non-smoker,32.2,['cancer'],No Claims,individual,40,10.1,diabetes,,45893
+ID_0612,53,female,,Entrepreneur,hypertension,non-smoker,37.82,['none'],1 Claim,individual,55,3,tuberculosis (tb),,20057
+ID_0613,35,female,,Accountant,diabetes,occasional smoker,28.31,"['heart disease', 'stroke']",1 Claim,individual,60,6.1,genetic disorder,,42227
+ID_0614,66,male,,Unemployed,none,non-smoker,21.71,"['cancer', 'heart disease']",No Claims,individual,10,0,diabetes,,41313
+ID_0615,56,male,,Teacher,none,non-smoker,38.49,['none'],No Claims,family,30,3.3,hypertension,,26668
+ID_0616,49,female,,Engineer,diabetes,non-smoker,28.36,['cancer'],No Claims,family,35,6.5,genetic disorder,,38281
+ID_0617,41,male,,Entrepreneur,none,non-smoker,22.41,['not available'],No Claims,family,0,7.8,heart disease,,27121
+ID_0618,40,male,,Teacher,heart disease,occasional smoker,25,['none'],1 Claim,individual,55,4.6,heart disease,,25683
+ID_0619,49,male,,Doctor,none,non-smoker,19.59,['diabetes'],No Claims,individual,0,10,genetic disorder,,38088
+ID_0620,54,female,,Teacher,heart disease,non-smoker,28.57,['cancer'],1 Claim,individual,70,3.3,kidney failure,,37389
+ID_0621,29,male,,Student,diabetes,non-smoker,36.84,['heart disease'],1 Claim,individual,55,1.6,heart disease,,44486
+ID_0622,66,male,,Unemployed,hypertension,non-smoker,38.57,['none'],1 Claim,individual,35,0,genetic disorder,,35817
+ID_0623,30,male,,Entrepreneur,hypertension,occasional smoker,38.55,['not available'],No Claims,family,70,9.9,kidney failure,,27757
+ID_0624,40,female,,Teacher,diabetes,occasional smoker,21.19,['heart disease'],1 Claim,individual,40,3.1,hypertension,,24377
+ID_0625,42,male,,Manager,none,non-smoker,26.71,"['diabetes', 'heart disease']",1 Claim,family,20,14.8,hypertension,,34729
+ID_0626,52,female,,Manager,none,non-smoker,19.11,"['cancer', 'diabetes', 'kidney disease']",1 Claim,individual,20,14.7,diabetes,,23206
+ID_0627,58,female,,Manager,none,non-smoker,36.89,['none'],No Claims,corporate,40,10,diabetes,,45514
+ID_0628,47,female,,Entrepreneur,heart disease,occasional smoker,26.21,"['diabetes', 'heart disease']",No Claims,family,75,6.8,kidney failure,,22471
+ID_0629,34,male,,Doctor,hypertension,non-smoker,32.07,"['diabetes', 'heart disease']",1 Claim,family,45,10,tuberculosis (tb),,49870
+ID_0630,66,male,,Unemployed,none,non-smoker,33.87,['diabetes'],No Claims,individual,50,0,kidney failure,,27075
+ID_0631,37,female,,Accountant,none,non-smoker,27.74,['none'],No Claims,family,40,5.4,tuberculosis (tb),,28358
+ID_0632,65,male,,Doctor,none,non-smoker,25.09,"['cancer', 'stroke']",2+ Claims,family,10,12.5,heart disease,,23970
+ID_0633,42,male,,Manager,diabetes,non-smoker,39.19,['none'],No Claims,family,45,10.2,hypertension,,39484
+ID_0634,39,female,,Manager,none,non-smoker,39.24,['heart disease'],No Claims,family,30,10.9,heart disease,,27739
+ID_0635,30,male,,IT Professional,hypertension,non-smoker,24.72,"['diabetes', 'kidney disease']",No Claims,family,25,11.5,diabetes,,26509
+ID_0636,36,male,,Engineer,multiple,non-smoker,28.81,"['diabetes', 'heart disease']",1 Claim,individual,100,4.4,diabetes,,22780
+ID_0637,66,female,,Unemployed,none,non-smoker,39.42,['none'],No Claims,family,30,0,hypertension,,43925
+ID_0638,53,female,,Teacher,none,occasional smoker,18.6,['diabetes'],1 Claim,family,15,4.3,kidney failure,,33996
+ID_0639,29,female,,Student,none,non-smoker,27.37,['diabetes'],No Claims,individual,30,1.9,diabetes,,42549
+ID_0640,58,male,,Entrepreneur,none,non-smoker,20.66,['diabetes'],No Claims,individual,20,9.4,diabetes,,43593
+ID_0641,36,male,,Retail Worker,none,non-smoker,29.45,['heart disease'],1 Claim,individual,20,2.5,heart disease,,48650
+ID_0642,29,female,,Retail Worker,none,non-smoker,19.03,['none'],No Claims,family,10,2.9,heart disease,,45669
+ID_0643,26,female,,Student,heart disease,non-smoker,27.25,['cancer'],2+ Claims,individual,50,1.7,kidney failure,,39573
+ID_0644,24,female,,Retail Worker,none,occasional smoker,23.25,['none'],No Claims,individual,25,1.8,heart disease,,21212
+ID_0645,45,male,,Entrepreneur,none,non-smoker,29.97,['none'],No Claims,individual,20,5.9,diabetes,,44725
+ID_0646,31,female,,Entrepreneur,heart disease,regular smoker,39.91,['heart disease'],No Claims,family,80,5.9,diabetes,,27672
+ID_0647,48,male,,Accountant,hypertension,non-smoker,35.71,['none'],No Claims,individual,55,4.5,kidney failure,,49525
+ID_0648,69,male,,Unemployed,none,non-smoker,36.68,['cancer'],2+ Claims,family,20,0,hypertension,,42192
+ID_0649,36,female,,Retail Worker,diabetes,non-smoker,32.16,['heart disease'],1 Claim,individual,55,2.3,kidney failure,,23613
+ID_0650,64,female,,Doctor,none,non-smoker,19.39,['none'],No Claims,family,10,13.4,genetic disorder,,32131
+ID_0651,33,female,,Accountant,hypertension,occasional smoker,22.95,"['heart disease', 'stroke']",No Claims,corporate,40,4.3,genetic disorder,,32775
+ID_0652,22,female,,Unemployed,hypertension,occasional smoker,38.39,['cancer'],1 Claim,individual,80,0,diabetes,,32796
+ID_0653,52,female,,Entrepreneur,diabetes,occasional smoker,26.37,['heart disease'],No Claims,individual,50,3.6,hypertension,,32911
+ID_0654,29,male,,Retail Worker,none,regular smoker,20.73,"['cancer', 'stroke']",No Claims,family,30,2,hypertension,,26374
+ID_0655,42,female,,Engineer,hypertension,occasional smoker,33.6,"['heart disease', 'kidney disease']",2+ Claims,individual,60,6.5,diabetes,,46565
+ID_0656,69,male,,Unemployed,none,non-smoker,24.94,['none'],2+ Claims,individual,20,0,hypertension,,47414
+ID_0657,38,male,,Entrepreneur,none,non-smoker,24.28,"['kidney disease', 'stroke']",2+ Claims,family,10,4.4,diabetes,,22560
+ID_0658,53,female,,Entrepreneur,none,non-smoker,39.96,['none'],1 Claim,corporate,30,9.3,tuberculosis (tb),,38379
+ID_0659,40,male,,Engineer,none,non-smoker,36.95,['none'],1 Claim,family,90,4.8,diabetes,,46259
+ID_0660,33,male,,Accountant,none,occasional smoker,27.27,"['heart disease', 'kidney disease']",No Claims,individual,45,6.2,diabetes,,49518
+ID_0661,56,male,,Teacher,hypertension,non-smoker,39.58,['diabetes'],No Claims,individual,35,3.6,hypertension,,47366
+ID_0662,62,male,,Doctor,heart disease,non-smoker,32.48,['not available'],No Claims,individual,70,17.2,diabetes,,26415
+ID_0663,59,female,,Entrepreneur,none,non-smoker,34.45,['none'],1 Claim,family,20,3.1,diabetes,,34620
+ID_0664,56,female,,Manager,none,non-smoker,19.18,"['diabetes', 'heart disease']",1 Claim,family,30,14.8,hypertension,,49353
+ID_0665,31,male,,Teacher,none,non-smoker,21.11,"['cancer', 'diabetes', 'heart disease', 'stroke']",1 Claim,family,10,3.4,heart disease,,27723
+ID_0666,48,male,,Manager,none,non-smoker,32.11,['none'],2+ Claims,individual,30,11.7,diabetes,,48172
+ID_0667,22,female,,Unemployed,none,non-smoker,37.83,['none'],1 Claim,family,50,0,hypertension,,37794
+ID_0668,52,male,,Teacher,heart disease,non-smoker,31.91,"['cancer', 'heart disease']",2+ Claims,individual,50,5.4,genetic disorder,,33260
+ID_0669,40,male,,Accountant,none,non-smoker,21.38,['cancer'],No Claims,individual,0,4.2,heart disease,,34921
+ID_0670,46,female,,Engineer,none,non-smoker,20.99,['stroke'],1 Claim,family,10,5.3,heart disease,,32626
+ID_0671,60,male,,Manager,none,non-smoker,36.65,"['heart disease', 'kidney disease']",No Claims,individual,20,12.6,diabetes,,40871
+ID_0672,28,male,,Retail Worker,heart disease,non-smoker,21.5,['none'],No Claims,family,60,2,heart disease,,39026
+ID_0673,35,male,,Entrepreneur,hypertension,non-smoker,29.68,['kidney disease'],2+ Claims,family,55,3.7,genetic disorder,,38621
+ID_0674,64,female,,Doctor,heart disease,non-smoker,19.3,['cancer'],1 Claim,corporate,40,6.4,hypertension,,29591
+ID_0675,29,female,,Teacher,hypertension,non-smoker,20.23,['not available'],No Claims,family,25,3.5,genetic disorder,,37365
+ID_0676,26,female,,IT Professional,none,non-smoker,32.96,"['cancer', 'heart disease']",No Claims,family,40,6.4,genetic disorder,,20346
+ID_0677,27,female,,Student,none,non-smoker,33.32,"['heart disease', 'stroke']",1 Claim,family,50,1.8,hypertension,,27517
+ID_0678,61,female,,Doctor,diabetes,non-smoker,25.84,['kidney disease'],1 Claim,individual,45,11.5,diabetes,,21491
+ID_0679,34,male,,Doctor,none,non-smoker,23.14,['kidney disease'],2+ Claims,individual,20,16.2,diabetes,,39248
+ID_0680,55,male,,Entrepreneur,diabetes,occasional smoker,35.99,['heart disease'],No Claims,family,50,5.9,tuberculosis (tb),,37487
+ID_0681,24,male,,IT Professional,none,non-smoker,23.17,['heart disease'],No Claims,family,10,5.1,genetic disorder,,44979
+ID_0682,63,male,,Doctor,none,regular smoker,30.15,['none'],No Claims,family,70,6.8,genetic disorder,,44038
+ID_0683,30,female,,Teacher,diabetes,non-smoker,39.32,['none'],No Claims,individual,45,5.5,tuberculosis (tb),,25116
+ID_0684,57,male,,Entrepreneur,diabetes,non-smoker,21.68,['diabetes'],No Claims,individual,45,3.1,genetic disorder,,40866
+ID_0685,59,male,,Manager,hypertension,non-smoker,38.73,['none'],2+ Claims,individual,35,8.1,diabetes,,37539
+ID_0686,26,female,,Teacher,none,non-smoker,22.43,['kidney disease'],No Claims,family,10,4.6,tuberculosis (tb),,35809
+ID_0687,67,male,,Unemployed,diabetes,non-smoker,30.7,['heart disease'],No Claims,family,35,0,heart disease,,42306
+ID_0688,44,male,,Entrepreneur,none,non-smoker,26.61,['none'],No Claims,family,20,7.9,heart disease,,30818
+ID_0689,19,male,,Unemployed,none,non-smoker,39.25,['none'],No Claims,individual,30,0,diabetes,,42659
+ID_0690,22,female,,Unemployed,none,non-smoker,24.38,['kidney disease'],1 Claim,individual,30,0,tuberculosis (tb),,35442
+ID_0691,46,male,,Engineer,none,non-smoker,27.09,['none'],1 Claim,family,20,6.5,heart disease,,39699
+ID_0692,54,male,,Accountant,none,non-smoker,39.63,['none'],1 Claim,family,40,5.7,hypertension,,28720
+ID_0693,55,male,,Accountant,none,non-smoker,30.03,['heart disease'],No Claims,individual,30,7.3,diabetes,,49038
+ID_0694,36,female,,Accountant,none,non-smoker,29.31,['diabetes'],No Claims,family,20,3.5,diabetes,,46525
+ID_0695,25,female,,Student,none,occasional smoker,24.04,['none'],No Claims,individual,35,1.2,hypertension,,38114
+ID_0696,65,male,,Doctor,none,occasional smoker,33.58,['stroke'],No Claims,family,55,8.2,diabetes,,23945
+ID_0697,62,male,,Doctor,none,regular smoker,18.81,['none'],1 Claim,family,40,8.8,heart disease,,25358
+ID_0698,18,female,,Unemployed,none,non-smoker,19.56,['stroke'],No Claims,family,10,0,heart disease,,28030
+ID_0699,39,male,,Manager,diabetes,occasional smoker,31.39,['stroke'],1 Claim,family,60,9.5,tuberculosis (tb),,39837
+ID_0700,69,female,,Unemployed,none,occasional smoker,25.85,"['cancer', 'diabetes']",No Claims,individual,35,0,hypertension,,42990
+ID_0701,34,male,,IT Professional,none,non-smoker,39,['none'],1 Claim,family,70,5.2,diabetes,,30916
+ID_0702,24,female,,Retail Worker,none,non-smoker,37.92,['none'],2+ Claims,family,30,2.7,diabetes,,35292
+ID_0703,42,male,,Teacher,diabetes,regular smoker,33.84,['diabetes'],1 Claim,family,100,5.6,kidney failure,,24038
+ID_0704,62,male,,Doctor,heart disease,non-smoker,36.09,"['cancer', 'heart disease']",No Claims,family,50,16.1,diabetes,,30773
+ID_0705,21,female,,Unemployed,hypertension,non-smoker,32.85,['not available'],2+ Claims,individual,65,0,heart disease,,27493
+ID_0706,53,male,,Teacher,hypertension,non-smoker,21.2,['none'],1 Claim,corporate,45,3.5,diabetes,,32266
+ID_0707,23,male,,Retail Worker,none,non-smoker,34.96,['diabetes'],No Claims,family,40,2.4,tuberculosis (tb),,29820
+ID_0708,48,female,,Teacher,diabetes,occasional smoker,23.02,"['diabetes', 'heart disease']",No Claims,individual,50,3.6,diabetes,,40483
+ID_0709,36,male,,Entrepreneur,diabetes,non-smoker,25.45,['none'],1 Claim,family,35,7.4,heart disease,,31857
+ID_0710,61,male,,Doctor,none,non-smoker,36.11,['cancer'],1 Claim,individual,40,10,hypertension,,37678
+ID_0711,56,male,,Manager,none,non-smoker,30.04,['heart disease'],No Claims,individual,40,11,hypertension,,26102
+ID_0712,44,female,,Teacher,none,non-smoker,36.99,"['cancer', 'heart disease']",No Claims,individual,20,4.4,heart disease,,42552
+ID_0713,27,female,,Engineer,heart disease,non-smoker,23.08,['none'],2+ Claims,family,30,6.5,hypertension,,21976
+ID_0714,43,female,,Retail Worker,diabetes,non-smoker,31.57,"['diabetes', 'kidney disease']",No Claims,family,65,2.8,tuberculosis (tb),,23298
+ID_0715,36,female,,Entrepreneur,hypertension,occasional smoker,20.3,"['heart disease', 'kidney disease', 'stroke']",No Claims,family,50,8.6,hypertension,,29699
+ID_0716,56,male,,Doctor,none,non-smoker,32.33,['none'],No Claims,family,60,17.7,diabetes,,32954
+ID_0717,20,female,,Unemployed,none,non-smoker,34.89,"['kidney disease', 'stroke']",1 Claim,individual,40,0,diabetes,,46870
+ID_0718,62,male,,Doctor,none,non-smoker,31.08,"['diabetes', 'heart disease', 'stroke']",No Claims,individual,20,12,hypertension,,48842
+ID_0719,30,male,,Manager,none,non-smoker,24.22,['none'],1 Claim,individual,10,8.6,diabetes,,40909
+ID_0720,67,female,,Unemployed,hypertension,occasional smoker,19.17,['cancer'],No Claims,family,30,0,tuberculosis (tb),,34974
+ID_0721,45,female,,Retail Worker,diabetes,occasional smoker,21.07,"['cancer', 'diabetes', 'stroke']",1 Claim,corporate,30,2.4,heart disease,,38716
+ID_0722,37,female,,Retail Worker,none,occasional smoker,31.88,['heart disease'],1 Claim,individual,35,2.7,diabetes,,37398
+ID_0723,45,male,,Retail Worker,hypertension,non-smoker,38.59,['none'],No Claims,family,45,2.3,diabetes,,46612
+ID_0724,25,male,,Student,none,non-smoker,22.94,['heart disease'],No Claims,corporate,20,1.5,hypertension,,26568
+ID_0725,58,female,,Doctor,multiple,non-smoker,34.3,"['heart disease', 'kidney disease']",No Claims,individual,90,9.3,genetic disorder,,24913
+ID_0726,56,male,,Doctor,none,non-smoker,37.13,['heart disease'],No Claims,family,30,16.2,tuberculosis (tb),,41648
+ID_0727,18,female,,Unemployed,none,occasional smoker,29.7,['heart disease'],1 Claim,family,65,0,genetic disorder,,48587
+ID_0728,20,male,,Unemployed,none,occasional smoker,32.89,['heart disease'],No Claims,family,45,0,tuberculosis (tb),,24611
+ID_0729,30,male,,Entrepreneur,none,occasional smoker,36.02,['stroke'],1 Claim,individual,45,9.5,hypertension,,21964
+ID_0730,45,female,,Engineer,none,regular smoker,24.1,['kidney disease'],No Claims,family,30,6.9,genetic disorder,,43043
+ID_0731,66,female,,Unemployed,diabetes,occasional smoker,24.88,['cancer'],No Claims,family,40,0,hypertension,,33846
+ID_0732,42,male,,Teacher,heart disease,non-smoker,18.51,['none'],No Claims,individual,30,3.8,diabetes,,24756
+ID_0733,50,male,,Manager,hypertension,non-smoker,39.21,['diabetes'],No Claims,family,55,13.4,diabetes,,45158
+ID_0734,55,male,,Manager,none,non-smoker,38.23,['heart disease'],No Claims,individual,30,8.5,hypertension,,35437
+ID_0735,23,female,,Retail Worker,diabetes,non-smoker,34.94,"['diabetes', 'heart disease']",1 Claim,family,45,2.8,hypertension,,29739
+ID_0736,61,female,,Doctor,none,non-smoker,20.2,['heart disease'],No Claims,family,0,17.6,genetic disorder,,28514
+ID_0737,62,female,,Doctor,none,non-smoker,28.12,['none'],No Claims,family,60,9,diabetes,,37046
+ID_0738,49,female,,Teacher,diabetes,occasional smoker,20.69,['none'],1 Claim,individual,50,4.4,diabetes,,46622
+ID_0739,62,female,,Doctor,diabetes,non-smoker,18.84,['heart disease'],1 Claim,individual,25,9.3,diabetes,,32514
+ID_0740,64,male,,Doctor,none,occasional smoker,31.75,['stroke'],No Claims,individual,35,8.5,diabetes,,39331
+ID_0741,38,male,,Accountant,none,occasional smoker,39.16,['none'],1 Claim,individual,55,3.8,tuberculosis (tb),,21591
+ID_0742,33,male,,IT Professional,multiple,non-smoker,37.91,['kidney disease'],No Claims,individual,80,6,heart disease,,32859
+ID_0743,38,female,,Retail Worker,none,non-smoker,33.48,['diabetes'],1 Claim,family,40,3.1,tuberculosis (tb),,22710
+ID_0744,28,male,,Doctor,none,non-smoker,20.58,['diabetes'],1 Claim,individual,50,17.9,kidney failure,,21427
+ID_0745,54,male,,Entrepreneur,diabetes,occasional smoker,24.39,['diabetes'],1 Claim,family,40,8.9,heart disease,,26597
+ID_0746,53,female,,Doctor,none,occasional smoker,25.38,"['kidney disease', 'stroke']",1 Claim,individual,65,13.4,diabetes,,42301
+ID_0747,52,male,,Doctor,none,occasional smoker,34.91,['none'],No Claims,family,85,8,genetic disorder,,40248
+ID_0748,36,male,,Doctor,none,non-smoker,35.75,['stroke'],1 Claim,family,20,9.5,heart disease,,38632
+ID_0749,37,female,,Accountant,hypertension,non-smoker,26.78,['stroke'],No Claims,family,45,4.7,heart disease,,28715
+ID_0750,35,male,,Retail Worker,diabetes,non-smoker,27.48,"['cancer', 'diabetes', 'stroke']",No Claims,corporate,65,3.1,kidney failure,,44825
+ID_0751,64,female,,Doctor,diabetes,occasional smoker,19.46,['heart disease'],No Claims,individual,40,15.1,genetic disorder,,30610
+ID_0752,58,female,,Entrepreneur,multiple,non-smoker,24.72,"['cancer', 'diabetes', 'heart disease']",2+ Claims,individual,70,6.9,kidney failure,,43381
+ID_0753,66,male,,Unemployed,hypertension,non-smoker,28.2,['heart disease'],1 Claim,individual,65,0,hypertension,,26618
+ID_0754,31,male,,Manager,none,non-smoker,21.02,['heart disease'],No Claims,individual,30,8.5,heart disease,,31390
+ID_0755,32,female,,Entrepreneur,none,non-smoker,28.25,['none'],1 Claim,family,10,5.2,hypertension,,24070
+ID_0756,48,male,,Doctor,diabetes,non-smoker,36.84,['none'],1 Claim,individual,55,16.7,heart disease,,24796
+ID_0757,18,male,,Unemployed,diabetes,non-smoker,31,"['heart disease', 'kidney disease']",No Claims,family,45,0,genetic disorder,,40496
+ID_0758,20,male,,Unemployed,diabetes,non-smoker,20.2,['none'],No Claims,individual,35,0,hypertension,,39263
+ID_0759,33,male,,IT Professional,diabetes,non-smoker,22.62,"['heart disease', 'kidney disease']",1 Claim,corporate,15,10.1,heart disease,,49661
+ID_0760,40,female,,Retail Worker,none,occasional smoker,28.7,['none'],No Claims,corporate,45,3.3,kidney failure,,41030
+ID_0761,28,female,,Accountant,none,occasional smoker,26.27,['not available'],No Claims,individual,45,6.5,diabetes,,33976
+ID_0762,29,male,,Engineer,none,non-smoker,26.21,"['diabetes', 'heart disease', 'kidney disease', 'stroke']",1 Claim,individual,20,6.1,hypertension,,20022
+ID_0763,27,female,,Retail Worker,none,occasional smoker,29.88,['none'],2+ Claims,family,45,3.3,diabetes,,30944
+ID_0764,49,male,,Engineer,none,non-smoker,31.06,"['cancer', 'diabetes', 'heart disease']",1 Claim,corporate,30,5.1,heart disease,,38670
+ID_0765,33,male,,Accountant,diabetes,non-smoker,35.63,['cancer'],1 Claim,individual,55,7.3,hypertension,,24493
+ID_0766,25,male,,Accountant,diabetes,occasional smoker,25.83,['stroke'],No Claims,individual,50,7.9,diabetes,,42138
+ID_0767,55,female,,Teacher,none,occasional smoker,35.82,['none'],No Claims,corporate,55,3.5,hypertension,,22068
+ID_0768,29,female,,Retail Worker,none,occasional smoker,25.78,['not available'],1 Claim,family,35,1.9,kidney failure,,28099
+ID_0769,41,male,,Teacher,none,non-smoker,19.69,['none'],No Claims,individual,30,4.5,heart disease,,48656
+ID_0770,45,female,,Entrepreneur,none,non-smoker,30.42,['diabetes'],1 Claim,family,30,4,kidney failure,,37960
+ID_0771,25,female,,Engineer,diabetes,occasional smoker,31.14,['not available'],No Claims,corporate,60,6.8,heart disease,,41723
+ID_0772,45,male,,Retail Worker,hypertension,non-smoker,38.59,"['diabetes', 'kidney disease']",No Claims,family,45,3.3,genetic disorder,,43262
+ID_0773,53,female,,Teacher,hypertension,non-smoker,34.11,['heart disease'],No Claims,family,55,3.1,diabetes,,30578
+ID_0774,43,female,,Accountant,diabetes,occasional smoker,38.23,['none'],2+ Claims,family,60,7.7,hypertension,,20337
+ID_0775,25,female,,Teacher,diabetes,occasional smoker,38.03,['diabetes'],No Claims,individual,70,3.2,genetic disorder,,47793
+ID_0776,67,male,,Unemployed,none,occasional smoker,31.5,['none'],No Claims,family,45,0,tuberculosis (tb),,43210
+ID_0777,45,male,,Teacher,none,non-smoker,29.85,"['heart disease', 'stroke']",No Claims,individual,20,5.5,heart disease,,34328
+ID_0778,45,male,,Doctor,none,occasional smoker,30.48,['none'],1 Claim,corporate,35,12.8,diabetes,,39912
+ID_0779,54,male,,Doctor,multiple,non-smoker,39.53,['cancer'],No Claims,individual,100,15.8,kidney failure,,38330
+ID_0780,58,male,,Teacher,none,non-smoker,35.12,['none'],No Claims,family,40,3.2,diabetes,,42140
+ID_0781,53,female,,Accountant,none,non-smoker,20.78,['diabetes'],No Claims,individual,10,4.2,kidney failure,,49890
+ID_0782,44,male,,Entrepreneur,heart disease,non-smoker,35.24,"['heart disease', 'kidney disease', 'stroke']",1 Claim,family,60,6.6,hypertension,,24454
+ID_0783,34,female,,Doctor,heart disease,non-smoker,22.17,['none'],No Claims,individual,70,6.1,hypertension,,45180
+ID_0784,26,male,,Teacher,hypertension,non-smoker,28.12,['heart disease'],No Claims,family,25,5.2,diabetes,,23798
+ID_0785,50,male,,Accountant,none,non-smoker,23.02,['diabetes'],No Claims,family,10,4.7,genetic disorder,,34721
+ID_0786,37,female,,Accountant,none,non-smoker,33.33,['none'],No Claims,family,20,5.7,heart disease,,35053
+ID_0787,30,male,,Accountant,none,non-smoker,37.36,['none'],1 Claim,family,40,3.2,genetic disorder,,32452
+ID_0788,45,female,,Engineer,none,non-smoker,24.74,"['heart disease', 'stroke']",No Claims,individual,20,4,kidney failure,,36020
+ID_0789,65,male,,Doctor,none,non-smoker,20.26,['diabetes'],2+ Claims,corporate,20,10.4,heart disease,,37748
+ID_0790,46,male,,Manager,none,occasional smoker,24.92,['none'],2+ Claims,family,15,11.3,hypertension,,44361
+ID_0791,30,male,,Engineer,heart disease,occasional smoker,32.96,['not available'],No Claims,family,85,4,heart disease,,35367
+ID_0792,63,male,,Doctor,none,non-smoker,25.57,"['heart disease', 'stroke']",1 Claim,family,20,16.8,hypertension,,41343
+ID_0793,52,female,,Entrepreneur,diabetes,occasional smoker,24.48,['not available'],1 Claim,family,50,3.8,diabetes,,24985
+ID_0794,23,male,,Student,diabetes,non-smoker,22.47,['none'],1 Claim,individual,25,2.1,diabetes,,46582
+ID_0795,35,male,,Doctor,none,non-smoker,29.2,['none'],No Claims,family,10,16.5,kidney failure,,40915
+ID_0796,68,female,,Unemployed,diabetes,occasional smoker,24.43,['heart disease'],No Claims,family,40,0,genetic disorder,,29596
+ID_0797,22,female,,Unemployed,none,non-smoker,34.22,['none'],No Claims,family,40,0,hypertension,,30621
+ID_0798,64,male,,Doctor,none,regular smoker,20.15,['kidney disease'],1 Claim,family,30,17.9,tuberculosis (tb),,39573
+ID_0799,42,male,,Retail Worker,hypertension,non-smoker,32.78,['diabetes'],No Claims,individual,55,2.6,kidney failure,,21535
+ID_0800,19,female,,Unemployed,none,occasional smoker,23.61,['not available'],No Claims,individual,55,0,heart disease,,21723
+ID_0801,27,male,,Engineer,multiple,non-smoker,29.02,['none'],No Claims,individual,90,8,diabetes,,38865
+ID_0802,47,male,,Doctor,none,non-smoker,24.65,['none'],No Claims,individual,10,17.3,heart disease,,21756
+ID_0803,67,male,,Unemployed,diabetes,non-smoker,34.04,['none'],No Claims,family,55,0,hypertension,,42495
+ID_0804,62,female,,Doctor,none,occasional smoker,38.82,['stroke'],No Claims,family,45,15.8,diabetes,,30379
+ID_0805,22,female,,Unemployed,none,non-smoker,38.22,['heart disease'],No Claims,individual,30,0,diabetes,,38073
+ID_0806,50,female,,Teacher,none,regular smoker,31.04,['none'],2+ Claims,individual,50,3.8,kidney failure,,35682
+ID_0807,18,female,,Unemployed,diabetes,non-smoker,28.45,"['diabetes', 'heart disease']",No Claims,corporate,45,0,tuberculosis (tb),,37999
+ID_0808,35,female,,IT Professional,hypertension,non-smoker,36.09,['none'],1 Claim,family,55,11.3,hypertension,,45977
+ID_0809,49,male,,Engineer,hypertension,non-smoker,33.19,"['cancer', 'kidney disease']",No Claims,family,45,3.6,kidney failure,,45887
+ID_0810,64,female,,Doctor,none,non-smoker,22.45,['stroke'],No Claims,family,30,12.8,hypertension,,21500
+ID_0811,66,male,,Unemployed,hypertension,occasional smoker,36.15,['none'],1 Claim,family,70,0,kidney failure,,48727
+ID_0812,28,female,,Student,diabetes,non-smoker,27.72,['none'],1 Claim,individual,55,0.9,diabetes,,47067
+ID_0813,38,male,,Doctor,hypertension,non-smoker,22.56,['kidney disease'],No Claims,individual,65,7.7,hypertension,,45369
+ID_0814,43,female,,Entrepreneur,none,non-smoker,24.56,['diabetes'],2+ Claims,individual,20,6.3,heart disease,,28161
+ID_0815,42,male,,Engineer,diabetes,non-smoker,24.25,['not available'],2+ Claims,individual,35,5.4,diabetes,,25326
+ID_0816,39,female,,Manager,hypertension,occasional smoker,29.66,"['kidney disease', 'stroke']",2+ Claims,corporate,60,13,genetic disorder,,36229
+ID_0817,44,female,,Manager,none,non-smoker,23.54,['heart disease'],No Claims,family,20,14.2,genetic disorder,,21189
+ID_0818,66,female,,Unemployed,hypertension,non-smoker,21.16,"['heart disease', 'kidney disease']",No Claims,individual,65,0,diabetes,,39684
+ID_0819,30,female,,Retail Worker,diabetes,regular smoker,21.16,['none'],1 Claim,individual,75,2.5,heart disease,,42726
+ID_0820,50,male,,Doctor,none,occasional smoker,31.04,['cancer'],1 Claim,individual,55,8.1,diabetes,,25254
+ID_0821,51,female,,Manager,none,non-smoker,34.3,['none'],No Claims,family,30,14,diabetes,,30791
+ID_0822,58,male,,Entrepreneur,none,non-smoker,25.41,['diabetes'],1 Claim,family,20,3.6,hypertension,,29528
+ID_0823,52,female,,Entrepreneur,diabetes,non-smoker,19.24,"['heart disease', 'stroke']",No Claims,individual,25,3.5,tuberculosis (tb),,37081
+ID_0824,18,female,,Unemployed,hypertension,non-smoker,21.24,['none'],No Claims,individual,25,0,hypertension,,34344
+ID_0825,38,female,,Accountant,none,occasional smoker,38.17,"['cancer', 'kidney disease']",No Claims,family,65,5.9,hypertension,,23770
+ID_0826,65,female,,Doctor,hypertension,non-smoker,29.11,['none'],1 Claim,family,25,7.8,genetic disorder,,31594
+ID_0827,23,male,,Retail Worker,heart disease,non-smoker,28.25,['heart disease'],No Claims,individual,60,3.5,genetic disorder,,27790
+ID_0828,45,male,,Manager,none,non-smoker,19.32,['not available'],1 Claim,family,0,7.8,tuberculosis (tb),,29675
+ID_0829,34,male,,Manager,heart disease,non-smoker,34.17,['heart disease'],No Claims,family,60,10.3,hypertension,,30742
+ID_0830,22,female,,Unemployed,multiple,non-smoker,29.85,['heart disease'],1 Claim,individual,60,0,kidney failure,,44630
+ID_0831,48,male,,Entrepreneur,hypertension,non-smoker,22.84,['heart disease'],2+ Claims,individual,25,7.8,diabetes,,35664
+ID_0832,22,female,,Unemployed,hypertension,non-smoker,20.87,"['heart disease', 'stroke']",1 Claim,individual,45,0,heart disease,,41113
+ID_0833,55,male,,Doctor,multiple,non-smoker,26.74,['none'],2+ Claims,family,70,17.9,genetic disorder,,23722
+ID_0834,20,male,,Unemployed,diabetes,non-smoker,36.5,['none'],No Claims,corporate,55,0,heart disease,,48684
+ID_0835,40,male,,Entrepreneur,none,non-smoker,37.1,['stroke'],No Claims,family,20,5.1,heart disease,,30373
+ID_0836,54,male,,Teacher,hypertension,non-smoker,31.46,"['diabetes', 'kidney disease']",No Claims,family,55,3.7,diabetes,,43032
+ID_0837,54,male,,Doctor,diabetes,non-smoker,34.14,['none'],No Claims,family,45,17.2,hypertension,,21179
+ID_0838,27,female,,Accountant,diabetes,non-smoker,20.98,['heart disease'],1 Claim,family,25,4.3,tuberculosis (tb),,23158
+ID_0839,27,male,,Retail Worker,none,non-smoker,31.14,['heart disease'],No Claims,corporate,20,3.2,diabetes,,29359
+ID_0840,36,male,,Engineer,hypertension,non-smoker,32.84,"['heart disease', 'stroke']",No Claims,individual,65,6.4,heart disease,,32678
+ID_0841,34,female,,Manager,none,non-smoker,22.82,['heart disease'],No Claims,family,20,14.8,hypertension,,21430
+ID_0842,38,female,,Engineer,heart disease,occasional smoker,37.42,['diabetes'],No Claims,family,85,4.7,kidney failure,,30053
+ID_0843,31,female,,Manager,none,regular smoker,22.69,['diabetes'],No Claims,family,40,11.6,diabetes,,31278
+ID_0844,26,female,,Accountant,none,occasional smoker,25.24,['stroke'],1 Claim,individual,45,3.1,diabetes,,31206
+ID_0845,63,female,,Doctor,none,non-smoker,31.84,['heart disease'],No Claims,family,20,10.3,hypertension,,22389
+ID_0846,18,male,,Unemployed,none,occasional smoker,32.22,['none'],No Claims,family,65,0,diabetes,,43707
+ID_0847,68,female,,Unemployed,diabetes,non-smoker,33.54,['none'],1 Claim,individual,35,0,kidney failure,,29125
+ID_0848,62,female,,Doctor,heart disease,non-smoker,20.91,['none'],1 Claim,family,100,13.9,kidney failure,,47481
+ID_0849,30,female,,Accountant,hypertension,non-smoker,36.76,"['diabetes', 'heart disease']",No Claims,individual,45,6.6,heart disease,,43345
+ID_0850,21,female,,Unemployed,none,occasional smoker,29.96,"['diabetes', 'stroke']",1 Claim,corporate,45,0,heart disease,,47435
+ID_0851,18,male,,Unemployed,none,non-smoker,28.63,['heart disease'],No Claims,family,30,0,diabetes,,28121
+ID_0852,66,male,,Unemployed,hypertension,non-smoker,39.59,"['heart disease', 'stroke']",No Claims,family,45,0,diabetes,,33132
+ID_0853,57,female,,Doctor,heart disease,occasional smoker,34.42,['none'],No Claims,individual,85,17.3,tuberculosis (tb),,33284
+ID_0854,49,female,,Doctor,none,occasional smoker,21.04,['heart disease'],No Claims,individual,15,15.2,diabetes,,23705
+ID_0855,51,female,,Doctor,none,non-smoker,34.77,"['cancer', 'diabetes', 'heart disease']",1 Claim,family,50,9,tuberculosis (tb),,38011
+ID_0856,45,male,,Entrepreneur,none,non-smoker,20.55,['cancer'],No Claims,individual,30,9.7,diabetes,,40659
+ID_0857,48,female,,Manager,heart disease,non-smoker,19.09,"['cancer', 'diabetes']",No Claims,family,60,7.8,diabetes,,45439
+ID_0858,25,male,,Student,diabetes,occasional smoker,27.18,"['heart disease', 'stroke']",1 Claim,individual,50,1.3,tuberculosis (tb),,38314
+ID_0859,56,female,,Manager,none,non-smoker,39.86,"['heart disease', 'stroke']",No Claims,family,30,8.9,hypertension,,45306
+ID_0860,43,female,,Accountant,none,non-smoker,22.26,['none'],No Claims,family,10,6.4,heart disease,,41339
+ID_0861,51,male,,Teacher,heart disease,occasional smoker,32.96,"['cancer', 'diabetes']",1 Claim,individual,95,3.5,diabetes,,22708
+ID_0862,20,female,,Unemployed,none,non-smoker,22.23,['heart disease'],No Claims,family,10,0,hypertension,,40100
+ID_0863,67,female,,Unemployed,none,non-smoker,34.08,['heart disease'],1 Claim,family,40,0,diabetes,,38551
+ID_0864,29,female,,Student,diabetes,non-smoker,29.37,['diabetes'],No Claims,family,45,1.8,diabetes,,34533
+ID_0865,18,female,,Unemployed,none,non-smoker,33.12,['heart disease'],1 Claim,individual,40,0,diabetes,,23594
+ID_0866,61,female,,Doctor,none,non-smoker,22.86,['heart disease'],No Claims,family,10,13.4,genetic disorder,,32892
+ID_0867,22,female,,Unemployed,hypertension,non-smoker,34.53,"['diabetes', 'heart disease', 'stroke']",1 Claim,individual,45,0,kidney failure,,42318
+ID_0868,47,female,,Accountant,heart disease,non-smoker,39.91,['not available'],No Claims,individual,70,7.2,kidney failure,,34010
+ID_0869,47,male,,Manager,hypertension,non-smoker,32.81,['none'],1 Claim,individual,45,11.8,tuberculosis (tb),,21026
+ID_0870,34,male,,Accountant,heart disease,non-smoker,29.11,['none'],No Claims,family,60,3.4,hypertension,,25242
+ID_0871,65,male,,Doctor,diabetes,regular smoker,38.35,['diabetes'],No Claims,individual,75,14.2,diabetes,,36386
+ID_0872,64,male,,Doctor,hypertension,regular smoker,18.84,['none'],No Claims,corporate,55,7.3,heart disease,,20086
+ID_0873,40,male,,Entrepreneur,none,non-smoker,34.19,['diabetes'],1 Claim,individual,40,6.2,hypertension,,31006
+ID_0874,32,male,,Doctor,diabetes,non-smoker,37.61,['diabetes'],2+ Claims,individual,55,8.3,tuberculosis (tb),,40697
+ID_0875,54,female,,Doctor,multiple,non-smoker,19.83,['none'],No Claims,individual,70,16.6,genetic disorder,,47400
+ID_0876,38,male,,Manager,none,occasional smoker,28.18,['none'],No Claims,individual,35,12.5,tuberculosis (tb),,40567
+ID_0877,31,female,,Manager,none,non-smoker,22.9,"['cancer', 'heart disease']",1 Claim,family,0,14.5,hypertension,,26029
+ID_0878,19,male,,Unemployed,none,regular smoker,30.68,['stroke'],No Claims,individual,60,0,heart disease,,29470
+ID_0879,28,female,,Doctor,none,non-smoker,32.47,['none'],2+ Claims,individual,30,8.2,hypertension,,34732
+ID_0880,68,female,,Unemployed,none,regular smoker,25.01,['heart disease'],1 Claim,individual,60,0,heart disease,,23165
+ID_0881,56,female,,Doctor,hypertension,occasional smoker,28.39,"['cancer', 'diabetes']",1 Claim,individual,60,11.2,diabetes,,41259
+ID_0882,55,female,,Manager,multiple,occasional smoker,24.51,['heart disease'],No Claims,individual,85,7.8,tuberculosis (tb),,29687
+ID_0883,51,male,,Accountant,none,non-smoker,26.44,['none'],No Claims,family,20,3.7,diabetes,,34473
+ID_0884,55,female,,Teacher,none,non-smoker,21.93,"['cancer', 'diabetes', 'heart disease']",1 Claim,family,10,3.4,hypertension,,21255
+ID_0885,67,female,,Unemployed,none,non-smoker,37.54,['none'],2+ Claims,family,30,0,tuberculosis (tb),,24813
+ID_0886,51,female,,Manager,heart disease,non-smoker,18.72,['heart disease'],2+ Claims,family,80,11.2,diabetes,,27251
+ID_0887,35,female,,Accountant,none,non-smoker,37.47,"['kidney disease', 'stroke']",No Claims,family,40,7.4,diabetes,,25048
+ID_0888,47,male,,Teacher,none,non-smoker,30.79,['none'],No Claims,corporate,40,3.5,hypertension,,29421
+ID_0889,32,male,,Doctor,none,non-smoker,25.63,['none'],No Claims,individual,30,9.7,tuberculosis (tb),,24726
+ID_0890,44,male,,Manager,none,non-smoker,34.05,['kidney disease'],1 Claim,individual,30,13.7,hypertension,,30195
+ID_0891,68,male,,Unemployed,none,non-smoker,29.42,['none'],No Claims,individual,60,0,diabetes,,40733
+ID_0892,51,male,,Teacher,heart disease,non-smoker,29.23,"['heart disease', 'kidney disease']",No Claims,individual,40,3.6,diabetes,,31970
+ID_0893,69,male,,Unemployed,diabetes,regular smoker,20.87,['heart disease'],No Claims,individual,65,0,heart disease,,36113
+ID_0894,55,female,,Teacher,diabetes,non-smoker,26.87,['heart disease'],No Claims,family,45,5.4,hypertension,,31997
+ID_0895,50,male,,Entrepreneur,none,non-smoker,23.68,['none'],2+ Claims,individual,20,8,diabetes,,20150
+ID_0896,41,male,,Accountant,hypertension,non-smoker,18.84,"['cancer', 'diabetes', 'kidney disease']",No Claims,corporate,25,3.9,diabetes,,46600
+ID_0897,32,male,,Retail Worker,diabetes,occasional smoker,26.24,"['kidney disease', 'stroke']",No Claims,individual,50,2,heart disease,,32819
+ID_0898,47,female,,Engineer,none,non-smoker,20.43,['none'],No Claims,individual,0,6.7,hypertension,,37363
+ID_0899,59,female,,Doctor,diabetes,non-smoker,24.02,['not available'],No Claims,corporate,35,16.4,hypertension,,42979
+ID_0900,68,female,,Unemployed,none,non-smoker,20.49,['heart disease'],No Claims,family,40,0,kidney failure,,25550
+ID_0901,34,female,,Manager,hypertension,non-smoker,20.67,['stroke'],No Claims,individual,15,10.3,tuberculosis (tb),,37777
+ID_0902,22,female,,Unemployed,none,non-smoker,22.78,"['cancer', 'stroke']",1 Claim,family,30,0,diabetes,,28228
+ID_0903,46,female,,Teacher,multiple,regular smoker,40,['kidney disease'],No Claims,family,100,4.5,diabetes,,34361
+ID_0904,21,female,,Unemployed,none,regular smoker,18.55,['none'],No Claims,individual,50,0,genetic disorder,,42312
+ID_0905,27,female,,Teacher,hypertension,non-smoker,32.23,['heart disease'],No Claims,individual,45,4.6,kidney failure,,27014
+ID_0906,34,male,,Engineer,diabetes,non-smoker,21.54,['none'],1 Claim,family,15,6.3,diabetes,,25624
+ID_0907,27,female,,Retail Worker,hypertension,non-smoker,38.29,"['cancer', 'stroke']",No Claims,family,35,1.8,kidney failure,,39556
+ID_0908,34,male,,Doctor,none,non-smoker,20.51,['stroke'],1 Claim,individual,10,8.1,kidney failure,,42967
+ID_0909,37,male,,Teacher,none,non-smoker,39.03,['none'],No Claims,family,40,3.9,hypertension,,45010
+ID_0910,41,male,,Engineer,hypertension,non-smoker,31.63,['heart disease'],1 Claim,individual,45,5.9,genetic disorder,,22829
+ID_0911,22,male,,Unemployed,none,regular smoker,18.53,['not available'],No Claims,family,60,0,kidney failure,,23324
+ID_0912,51,female,,Manager,none,regular smoker,37.72,['none'],2+ Claims,individual,60,12,genetic disorder,,46394
+ID_0913,23,female,,Student,diabetes,non-smoker,29.72,"['heart disease', 'stroke']",No Claims,family,35,0.8,diabetes,,29099
+ID_0914,19,male,,Unemployed,diabetes,non-smoker,24.15,['stroke'],No Claims,family,45,0,diabetes,,28773
+ID_0915,30,male,,Retail Worker,none,non-smoker,35,['none'],1 Claim,individual,40,2.7,diabetes,,27120
+ID_0916,60,male,,Teacher,none,non-smoker,38.42,['stroke'],No Claims,individual,30,3,diabetes,,29671
+ID_0917,60,male,,Entrepreneur,none,non-smoker,28.9,['stroke'],2+ Claims,family,30,4.5,heart disease,,23139
+ID_0918,65,female,,Doctor,hypertension,non-smoker,25.28,"['diabetes', 'heart disease']",No Claims,corporate,45,16.4,diabetes,,22097
+ID_0919,28,male,,Student,diabetes,occasional smoker,35.46,['none'],1 Claim,individual,60,1.5,heart disease,,30424
+ID_0920,68,female,,Unemployed,hypertension,occasional smoker,33.16,['diabetes'],1 Claim,individual,70,0,genetic disorder,,21767
+ID_0921,64,female,,Doctor,multiple,non-smoker,37.61,['diabetes'],2+ Claims,family,100,12.9,tuberculosis (tb),,44025
+ID_0922,40,female,,Retail Worker,none,non-smoker,33.39,['cancer'],2+ Claims,family,40,2.3,diabetes,,43397
+ID_0923,33,female,,Engineer,none,non-smoker,23.74,"['kidney disease', 'stroke']",1 Claim,individual,10,7.1,heart disease,,34330
+ID_0924,48,male,,Doctor,none,non-smoker,38.53,"['diabetes', 'stroke']",1 Claim,family,30,11.3,hypertension,,21254
+ID_0925,28,female,,Doctor,none,non-smoker,20.75,['heart disease'],No Claims,family,20,13.9,diabetes,,41063
+ID_0926,33,male,,Teacher,heart disease,non-smoker,24.26,"['diabetes', 'heart disease', 'stroke']",No Claims,individual,40,4.5,kidney failure,,20862
+ID_0927,25,male,,Retail Worker,diabetes,non-smoker,29.68,['diabetes'],1 Claim,individual,35,2.1,diabetes,,46641
+ID_0928,21,female,,Unemployed,none,non-smoker,30.66,['none'],2+ Claims,individual,40,0,diabetes,,37268
+ID_0929,57,male,,Doctor,none,regular smoker,18.83,['heart disease'],1 Claim,family,40,13.7,diabetes,,39216
+ID_0930,21,female,,Unemployed,diabetes,non-smoker,35.28,"['diabetes', 'heart disease', 'stroke']",2+ Claims,family,55,0,hypertension,,29582
+ID_0931,42,female,,Accountant,diabetes,non-smoker,26.27,"['diabetes', 'heart disease']",1 Claim,family,55,5,genetic disorder,,49113
+ID_0932,20,male,,Unemployed,none,non-smoker,27.24,['none'],No Claims,individual,30,0,tuberculosis (tb),,20093
+ID_0933,49,male,,Manager,multiple,non-smoker,35.9,['none'],No Claims,individual,80,10.4,genetic disorder,,37031
+ID_0934,20,male,,Unemployed,diabetes,non-smoker,26.65,['diabetes'],No Claims,family,65,0,hypertension,,39823
+ID_0935,44,male,,Doctor,none,regular smoker,19.52,['none'],No Claims,individual,40,15,hypertension,,37903
+ID_0936,46,female,,Engineer,heart disease,occasional smoker,22.29,['diabetes'],No Claims,family,75,6.3,heart disease,,37978
+ID_0937,49,male,,Doctor,none,non-smoker,39.05,['none'],2+ Claims,family,30,14.9,genetic disorder,,35358
+ID_0938,67,female,,Unemployed,heart disease,non-smoker,20.01,['none'],1 Claim,individual,50,0,heart disease,,25046
+ID_0939,68,female,,Unemployed,multiple,non-smoker,26.13,['none'],No Claims,individual,70,0,diabetes,,39582
+ID_0940,36,female,,Doctor,hypertension,non-smoker,29.32,['none'],No Claims,individual,35,11.9,diabetes,,36659
+ID_0941,38,male,,Engineer,hypertension,occasional smoker,29.11,['none'],No Claims,individual,40,4.1,tuberculosis (tb),,37254
+ID_0942,22,male,,Unemployed,none,non-smoker,18.59,"['diabetes', 'heart disease']",No Claims,family,10,0,hypertension,,41835
+ID_0943,35,male,,Manager,heart disease,non-smoker,29.27,"['heart disease', 'stroke']",No Claims,individual,40,13.9,heart disease,,34340
+ID_0944,45,female,,Teacher,diabetes,non-smoker,26.75,['none'],No Claims,individual,35,3.1,genetic disorder,,47051
+ID_0945,59,female,,Entrepreneur,hypertension,non-smoker,39.4,['none'],No Claims,family,35,5,diabetes,,25182
+ID_0946,39,female,,Manager,heart disease,regular smoker,21.92,['none'],No Claims,individual,60,10,diabetes,,24994
+ID_0947,38,male,,Accountant,multiple,non-smoker,26.11,['kidney disease'],2+ Claims,family,80,5.8,heart disease,,23855
+ID_0948,23,male,,Student,hypertension,occasional smoker,27.52,['none'],No Claims,individual,50,2.4,genetic disorder,,42620
+ID_0949,18,female,,Unemployed,none,non-smoker,26.9,['not available'],No Claims,individual,60,0,diabetes,,39753
+ID_0950,22,female,,Unemployed,multiple,occasional smoker,32.82,['heart disease'],No Claims,individual,100,0,kidney failure,,24675
+ID_0951,58,male,,Manager,diabetes,non-smoker,23.13,['cancer'],No Claims,individual,35,9.1,diabetes,,23603
+ID_0952,29,male,,Accountant,heart disease,non-smoker,23.25,['not available'],1 Claim,family,50,7.4,heart disease,,43444
+ID_0953,43,female,,Doctor,diabetes,occasional smoker,34.18,['none'],1 Claim,family,70,6.1,tuberculosis (tb),,42273
+ID_0954,63,male,,Doctor,none,non-smoker,29.26,"['diabetes', 'heart disease']",No Claims,individual,30,15.4,diabetes,,23203
+ID_0955,51,female,,Manager,none,non-smoker,27.43,['none'],1 Claim,individual,30,10.1,diabetes,,38513
+ID_0956,66,male,,Unemployed,diabetes,non-smoker,22.14,"['diabetes', 'stroke']",No Claims,individual,15,0,diabetes,,20919
+ID_0957,31,male,,Engineer,hypertension,occasional smoker,22.53,"['cancer', 'heart disease', 'kidney disease', 'stroke']",1 Claim,individual,40,6.1,kidney failure,,39667
+ID_0958,43,female,,Accountant,none,non-smoker,18.73,['diabetes'],No Claims,individual,20,7.4,tuberculosis (tb),,41125
+ID_0959,62,female,,Doctor,diabetes,regular smoker,20.47,"['kidney disease', 'stroke']",No Claims,family,55,11.2,diabetes,,42053
+ID_0960,44,male,,Engineer,none,non-smoker,30.47,['cancer'],1 Claim,family,20,5.5,diabetes,,25504
+ID_0961,26,male,,Accountant,hypertension,non-smoker,37.68,['none'],1 Claim,individual,65,6.9,hypertension,,47252
+ID_0962,43,female,,Teacher,none,occasional smoker,24.67,['none'],1 Claim,family,35,5.6,kidney failure,,37942
+ID_0963,64,female,,Doctor,none,non-smoker,25.55,['heart disease'],No Claims,family,40,8.1,diabetes,,24903
+ID_0964,39,male,,Engineer,none,occasional smoker,20.99,"['heart disease', 'kidney disease']",No Claims,individual,45,5.5,genetic disorder,,49060
+ID_0965,64,male,,Doctor,none,regular smoker,26.86,"['cancer', 'stroke']",2+ Claims,family,50,15.8,genetic disorder,,47386
+ID_0966,47,male,,Engineer,none,non-smoker,19.3,['not available'],No Claims,family,40,7.3,heart disease,,45767
+ID_0967,60,female,,Teacher,none,non-smoker,38.23,"['diabetes', 'kidney disease', 'stroke']",No Claims,individual,60,3.4,kidney failure,,37596
+ID_0968,65,female,,Doctor,none,non-smoker,32.97,['none'],No Claims,corporate,50,6.6,hypertension,,21833
+ID_0969,34,female,,Doctor,heart disease,occasional smoker,39.8,['heart disease'],No Claims,individual,95,14.2,tuberculosis (tb),,29110
+ID_0970,43,female,,Doctor,heart disease,occasional smoker,37.48,['none'],No Claims,individual,85,15,genetic disorder,,39463
+ID_0971,53,male,,Accountant,none,non-smoker,28.67,['none'],No Claims,family,20,7.2,hypertension,,42518
+ID_0972,18,male,,Unemployed,multiple,non-smoker,29.67,['none'],No Claims,individual,100,0,diabetes,,48335
+ID_0973,25,female,,IT Professional,none,non-smoker,22.6,['none'],2+ Claims,individual,20,5.6,heart disease,,33486
+ID_0974,66,male,,Unemployed,diabetes,occasional smoker,28.43,['kidney disease'],No Claims,individual,50,0,heart disease,,38508
+ID_0975,52,male,,Manager,diabetes,non-smoker,37.92,['heart disease'],No Claims,family,65,13.5,tuberculosis (tb),,41841
+ID_0976,69,male,,Unemployed,none,non-smoker,19.59,['kidney disease'],No Claims,family,10,0,heart disease,,45089
+ID_0977,32,male,,Retail Worker,none,non-smoker,37.07,['heart disease'],1 Claim,family,30,3.3,genetic disorder,,33810
+ID_0978,64,female,,Doctor,none,occasional smoker,25.83,"['diabetes', 'stroke']",No Claims,corporate,55,14.6,hypertension,,23573
+ID_0979,39,male,,Doctor,none,non-smoker,37.84,['heart disease'],1 Claim,individual,30,14.6,hypertension,,32655
+ID_0980,31,female,,Engineer,hypertension,non-smoker,38.73,['none'],No Claims,individual,55,7,tuberculosis (tb),,35438
+ID_0981,43,female,,Entrepreneur,none,non-smoker,32.92,['none'],1 Claim,family,40,7.3,kidney failure,,21476
+ID_0982,45,male,,Accountant,none,non-smoker,32.79,['heart disease'],No Claims,family,30,7.4,tuberculosis (tb),,43446
+ID_0983,40,male,,Manager,none,occasional smoker,28.23,['none'],No Claims,individual,35,12.6,genetic disorder,,45851
+ID_0984,31,male,,Accountant,none,regular smoker,36.46,['not available'],1 Claim,individual,60,6.2,diabetes,,32961
+ID_0985,41,male,,Entrepreneur,diabetes,non-smoker,39.17,"['cancer', 'diabetes', 'heart disease']",1 Claim,family,45,8.3,hypertension,,37848
+ID_0986,19,female,,Unemployed,none,non-smoker,35.16,['cancer'],No Claims,corporate,50,0,tuberculosis (tb),,34533
+ID_0987,62,male,,Doctor,heart disease,non-smoker,31.87,['not available'],No Claims,family,60,9.1,diabetes,,37331
+ID_0988,43,female,,Teacher,none,non-smoker,31.55,"['heart disease', 'stroke']",No Claims,individual,30,3,tuberculosis (tb),,24288
+ID_0989,31,female,,Manager,none,occasional smoker,36.76,['diabetes'],1 Claim,corporate,65,12.3,kidney failure,,49618
+ID_0990,68,male,,Unemployed,diabetes,non-smoker,30.14,['heart disease'],No Claims,family,55,0,heart disease,,38700
+ID_0991,24,female,,IT Professional,none,non-smoker,35.78,['none'],No Claims,family,30,6,heart disease,,33825
+ID_0992,20,female,,Unemployed,diabetes,non-smoker,29.44,"['cancer', 'kidney disease']",No Claims,family,45,0,kidney failure,,41948
+ID_0993,64,male,,Doctor,diabetes,non-smoker,19.84,['stroke'],1 Claim,family,35,15.6,diabetes,,22266
+ID_0994,40,female,,Engineer,none,non-smoker,26.75,['diabetes'],1 Claim,corporate,30,7,diabetes,,32976
+ID_0995,63,male,,Doctor,none,non-smoker,28.06,['heart disease'],1 Claim,family,20,12,tuberculosis (tb),,41309
+ID_0996,60,male,,Entrepreneur,none,non-smoker,21.54,['heart disease'],No Claims,family,20,7.4,hypertension,,42550
+ID_0997,64,male,,Doctor,none,occasional smoker,20.7,['diabetes'],2+ Claims,family,45,17.2,diabetes,,45168
+ID_0998,62,male,,Doctor,none,non-smoker,30.01,['stroke'],1 Claim,individual,40,17.7,diabetes,,49201
+ID_0999,35,female,,Engineer,none,non-smoker,20.33,"['heart disease', 'stroke']",1 Claim,family,10,5,heart disease,,23855
+ID_1000,55,male,,Accountant,none,regular smoker,25.01,['heart disease'],No Claims,family,40,6.2,heart disease,,27525
