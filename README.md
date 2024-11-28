@@ -11,3 +11,6 @@ rfhack.py - model that uses Random Forest Regression to train data
 hack - includes Random Forest Regression model and a HTML form to input (normalised) data. You could cross-verify our predicted risk score with any entry in the normalised dataset.
 
 project - includes interactive website that demonstrates creating of profile, entering data, creating community, joining community, claim amount - and also displays the active claims and approval rate (currently static)
+
+
+please visit: https://celebrated-monstera-babc3f.netlify.app/
