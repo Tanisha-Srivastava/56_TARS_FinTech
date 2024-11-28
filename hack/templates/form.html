@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Risk Score Prediction</title>
+</head>
+<body>
+    <h1>Risk Score Prediction</h1>
+    <form action="/predict" method="post">
+        <label for="age">Age:</label>
+        <input type="number" id="age" name="Age" required><br><br>
+
+        <label for="occupation">Occupation (numeric value):</label>
+        <input type="number" id="occupation" name="Occupation" required><br><br>
+
+        <label for="conditions">Pre-existing Conditions (0=No, 1=Yes):</label>
+        <input type="number" id="conditions" name="Pre_existing_Conditions" required><br><br>
+
+        <label for="smoking">Smoking Status (0=Non-smoker, 1=Smoker):</label>
+        <input type="number" id="smoking" name="Smoking_Status" required><br><br>
+
+        <label for="bmi">BMI:</label>
+        <input type="number" step="0.1" id="bmi" name="BMI" required><br><br>
+
+        <label for="history">Effective Family History (0=No, 1=Yes):</label>
+        <input type="number" id="history" name="effective_fam_history" required><br><br>
+
+        <label for="claims">Claim History (numeric value):</label>
+        <input type="number" id="claims" name="Claim_History" required><br><br>
+
+        <label for="income">Income in LPA:</label>
+        <input type="number" step="0.1" id="income" name="Income_LPA" required><br><br>
+
+        <button type="submit">Predict Risk Score</button>
+    </form>
+</body>
+</html>
