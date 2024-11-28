@@ -5,7 +5,7 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import train_test_split
 
 # Load the dataset and train the model
-data = pd.read_csv("C:\\Users\\surya\\Downloads\\normalised_data.csv")
+data = pd.read_csv("normalised_data.csv")
 
 input_columns = [
     "Age", "Occupation", "Pre_existing_Conditions", "Smoking_Status",
