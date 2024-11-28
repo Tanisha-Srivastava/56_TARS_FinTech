@@ -7,7 +7,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 
 # Load the dataset from a CSV file
 # Replace 'C:\\Users\\surya\\Downloads\\normalised_data.csv' with the actual path to your dataset
-data = pd.read_csv("C:\\Users\\surya\\Downloads\\normalised_data.csv")
+data = pd.read_csv("normalised_data.csv")
 
 # Display the first few rows of the dataset to confirm structure
 print("Dataset preview:")
